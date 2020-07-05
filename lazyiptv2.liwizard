@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wizard>
   <info>
-    <version>версия 2.001, 03.07.2020</version>
+    <version>версия 2.001, 05.07.2020</version>
     <name>LazyIPTV Deluxe Wizard</name>
-    <comment>Wizard-файл для android-приложения LazyIPTV</comment>
+    <comment>Wizard-файл для android-приложения LazyIPTV Deluxe</comment>
     <android_url>https://play.google.com/store/apps/details?id=com.lazycatsoftware.iptv</android_url>
     <warning>Весь контент, представленный в этом файле взят из открытых источников!</warning>
   </info>
@@ -48,15 +48,6 @@
 
     <playlist>
       <date>05.04.2020</date>
-      <name>TVA</name>
-      <url>https://tva.org.ua/iptv/iptv_ukr.m3u</url>
-      <comment>TVA</comment>
-      <update_hours>24</update_hours>
-      <group>UA, Обновляемый</group>
-    </playlist>
-    
-    <playlist>
-      <date>05.04.2020</date>
       <name>Films @ Freeportal</name>
       <url>http://freeportal.info/dwn/Films.m3u</url>
       <comment>Films @ Freeportal</comment>
@@ -69,33 +60,6 @@
       <name>Iptvstok</name>
       <url>https://iptvstok.work/iptv/IPTV_HD.m3u8</url>
       <comment>Iptvstok</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Обновляемый</group>
-    </playlist>
-
-    <playlist>
-      <date>26.02.2020</date>
-      <name>Fast TV</name>
-      <url>http://fast-tv.pro/auto.m3u</url>
-      <comment>Fast TV</comment>
-      <update_hours>24</update_hours>
-      <group>UA, Обновляемый</group>
-    </playlist>
-
-    <playlist>
-      <date>26.02.2020</date>
-      <name>Vip TV</name>
-      <url>http://vip-tv.xyz/playlist/koala.m3u</url>
-      <comment>Vip TV</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Обновляемый</group>
-    </playlist>
-
-    <playlist>
-      <date>26.02.2020</date>
-      <name>Iptv Smart Free</name>
-      <url>http://smartiptv.ucoz.net/iptvsmartfree.m3u</url>
-      <comment>Iptv Smart Free</comment>
       <update_hours>24</update_hours>
       <group>RU, Обновляемый</group>
     </playlist>
@@ -173,15 +137,6 @@
     </playlist>
 
     <playlist>
-      <date>01.01.2020</date>
-      <name>Ip Usb</name>
-      <url>https://ipusb.ucoz.net/iptvusb.m3u</url>
-      <comment>Ip Usb</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Обновляемый</group>
-    </playlist>
-
-    <playlist>
       <date>05.04.2020</date>
       <name>HD @ Iptvm3u.ru</name>
       <url>http://iptvm3u.ru/hdlist.m3u</url>
@@ -217,15 +172,6 @@
       <group>RU, Обновляемый</group>
     </playlist>
     
-    <playlist>
-      <date>06.08.2019</date>
-      <name>XXX @ avdmono</name>
-      <url>https://avdmono.do.am/iptv/xxx.m3u</url>
-      <comment>XXX @ avdmono</comment>
-      <update_hours>24</update_hours>
-      <group>Adult</group>
-    </playlist>
-                        
     <playlist>
       <date>13.07.2019</date>
       <name>Tv-smart-tv Test</name>
@@ -380,15 +326,6 @@
     </playlist>
 
     <playlist>
-      <name>Akta.ua</name>
-      <url>https://akta.ua/1.m3u</url>
-      <comment>[RU][UA]akta.ua</comment>
-      <date>18.01.2019</date>
-      <update_hours>24</update_hours>
-      <group>RU, UA, Обновляемый</group>
-    </playlist>
-
-    <playlist>
       <name>220 podkola</name>
       <url>http://tele.usite.pro/iptv/220_podkola.net.m3u</url>
       <comment>[RU] 220 podkola</comment>
@@ -466,15 +403,6 @@
         <comment>Плейлист со статическими источниками, разбиты по категориям (в разработке)</comment>
         <date>05.04.2020</date>
         <group>RU, UA, Статические, New</group>
-    </playlist>
-
-    <playlist>
-      <name>Str TV</name>
-      <url>http://strtv.zzz.com.ua/strtv.m3u</url>
-      <comment>Str TV</comment>
-      <date>18.11.2018</date>
-      <update_hours>24</update_hours>
-      <group>RU, UA, Обновляемый</group>
     </playlist>
 
     <playlist>
@@ -641,89 +569,241 @@
   <epgs>
   
     <epg>
-      <date>05.09.2017</date>
-      <name>[RU] Programtv.ru</name>
-      <url>http://programtv.ru/xmltv.xml.gz</url>
-      <comment>Country: ExUSSR, Lang: RU, Size: ~10Mb, 3 days. Содержит описания передач.</comment>
-      <group>exUSSR</group>
-    </epg>
-
-    <epg>
-      <date>03.09.2016</date>
-      <name>[RU] Epg.in.ua</name>
-      <url>http://epg.in.ua/epg/tvprogram_ua_ru.gz</url>
-      <comment>Country: ExUSSR, Lang: RU, Size: ~35Mb, 5 days. Содержит описания передач.</comment>
-      <group>exUSSR</group>
+      <date>07.07.2020</date>
+      <name>Glanz Epg</name>
+      <url>http://ottg.tv/epg.xml.gz</url>
+      <comment>Lang: RU, Size: ~Mb,  days. Содержит описания передач.</comment>
+      <group>Xmltv,RU,UA,World</group>
     </epg>
     
     <epg>
-      <date>13.10.2017</date>
-      <name>[RU] Torrent-tv.ru</name>
-      <url>http://api.torrent-tv.ru/ttv.xmltv.xml.gz</url>
-      <comment>Country: ExUSSR, Lang: RU, Size: ~25Mb, 10 days. Содержит описания передач.</comment>
-      <group>exUSSR</group>
+      <date>07.07.2020</date>
+      <name>Megane Epg</name>
+      <url>http://georgemikl.ucoz.ru/epg/xmltv.xml.gz</url>
+      <comment>Lang: RU, Size: ~Mb,  days. Содержит описания передач.</comment>
+      <group>Xmltv,RU,UA,World</group>
+    </epg>
+    
+    <epg>
+      <date>07.07.2020</date>
+      <name>Iptvx Lite Epg</name>
+      <url>https://iptvx.one/EPG_LITE</url>
+      <comment>Lang: RU, Size: ~Mb,  days. Содержит описания передач.</comment>
+      <group>Xmltv,RU,UA,World</group>
+    </epg>
+    
+    <epg>
+      <date>07.07.2020</date>
+      <name>Iptvx Epg</name>
+      <url>https://iptvx.one/EPG</url>
+      <comment>Lang: RU, Size: ~Mb,  days. Содержит описания передач.</comment>
+      <group>Xmltv,RU,UA,World</group>
+    </epg>
+    
+    <epg>
+      <date>07.07.2020</date>
+      <name>Shara Epg</name>
+      <url>http://stb.shara-tv.org/epg/epgtv.xml.gz</url>
+      <comment>Lang: RU, Size: ~Mb,  days. Содержит описания передач.</comment>
+      <group>Xmltv,RU,UA,World</group>
+    </epg>
+    
+    <epg>
+      <date>07.07.2020</date>
+      <name>Cbilling Epg</name>
+      <url>http://epg.iptvx.tv/xmltv.xml.gz</url>
+      <comment>Lang: RU, Size: ~Mb,  days. Содержит описания передач.</comment>
+      <group>Xmltv,RU,UA,World</group>
+    </epg>
+    
+    <epg>
+      <date>07.07.2020</date>
+      <name>Ottepg</name>
+      <url>https://1ottepg.my1.ru/xmltv.xml.gz</url>
+      <comment>Lang: RU, Size: ~Mb,  days. Содержит описания передач.</comment>
+      <group>Xmltv,RU,UA,World</group>
+    </epg>
+            
+    <epg>
+      <date>07.07.2020</date>
+      <name>Voka Epg</name>
+      <url>http://bit.ly/voc-tv</url>
+      <comment>Lang: RU, Size: ~Mb,  days. Содержит описания передач.</comment>
+      <group>Xmltv,RU,UA,World</group>
+    </epg>
+
+    <epg>
+      <date>07.07.2020</date>
+      <name>Fox EPG</name>
+      <url>https://epg.fox-tv.fun/1.xmltv</url>
+      <comment>Lang: RU, Size: ~Mb,  days. Содержит описания передач.</comment>
+      <group>Xmltv,RU,UA,World</group>
+    </epg>
+    
+    <epg>
+      <date>07.07.2020</date>
+      <name>GreatIPTV Epg</name>
+      <url>http://epg.greatiptv.cc/iptv.xml.gz</url>
+      <comment>Lang: RU, Size: ~Mb,  days. Содержит описания передач.</comment>
+      <group>Xmltv,RU,UA,World</group>
+    </epg>
+    
+    <epg>
+      <date>07.07.2020</date>
+      <name>Iformula Epg</name>
+      <url>http://iformula.ru/IPTV/tvprogramm/jtv.zip</url>
+      <comment>Lang: RU, Size: ~Mb,  days. Содержит описания передач.</comment>
+      <group>Jtv,RU,UA,World</group>
+    </epg>
+    
+    <epg>
+      <date>07.07.2020</date>
+      <name>Dortmundez Epg</name>
+      <url>http://dortmundez.ucoz.net/epg/epg.xml.gz</url>
+      <comment>Lang: RU, Size: ~Mb,  days. Содержит описания передач.</comment>
+      <group>Xmltv,RU,UA,World</group>
+    </epg>
+ 
+    <epg>
+      <date>07.07.2020</date>
+      <name>Triolan Epg</name>
+      <url>http://triolan.tv/App_Files/jtv.zip</url>
+      <comment>Lang: RU, Size: ~Mb,  days. Содержит описания передач.</comment>
+      <group>Jtv,RU,UA,World</group>
+    </epg>
+    
+    <epg>
+      <date>07.07.2020</date>
+      <name>Matrixhome Epg</name>
+      <url>http://iptv.matrixhome.net/jtv/dn/epg_jtv.zip</url>
+      <comment>Lang: RU, Size: ~Mb,  days. Содержит описания передач.</comment>
+      <group>Jtv,RU,UA,World</group>
+    </epg>
+    
+    <epg>
+      <date>07.07.2020</date>
+      <name>2kom Epg</name>
+      <url>http://2kom.tv/jtv.zip</url>
+      <comment>Lang: RU, Size: ~Mb,  days. Содержит описания передач.</comment>
+      <group>Jtv,RU,UA,World</group>
+    </epg>
+
+    <epg>
+      <date>07.07.2020</date>
+      <name>Idc Epg</name>
+      <url>http://iptv.idc.md/files/jtv.zip</url>
+      <comment>Lang: RU, Size: ~Mb,  days. Содержит описания передач.</comment>
+      <group>Jtv,RU,UA,World</group>
+    </epg>
+        
+    <epg>
+      <date>07.07.2020</date>
+      <name>Spark Epg</name>
+      <url>http://spark-tv.ru/jtv.zip</url>
+      <comment>Lang: RU, Size: ~Mb,  days. Содержит описания передач.</comment>
+      <group>Jtv,RU,UA,World</group>
+    </epg>
+    
+    <epg>
+      <date>07.07.2020</date>
+      <name>Avianetwork Epg</name>
+      <url>http://avianetwork.ru/tv_list/jtv.zip</url>
+      <comment>Lang: RU, Size: ~Mb,  days. Содержит описания передач.</comment>
+      <group>Jtv,RU,UA,World</group>
+    </epg>
+    
+    <epg>
+      <date>07.07.2020</date>
+      <name>Telecom.by Epg</name>
+      <url>http://help.telecom.by/_files/TelecomTV/TelecomTVepg/xmltv.zip</url>
+      <comment>Lang: RU, Size: ~Mb,  days. Содержит описания передач.</comment>
+      <group>Xmltv,RU,BY,World</group>
+    </epg>
+
+    <epg>
+      <date>07.07.2020</date>
+      <name>Openboxfan Epg</name>
+      <url>http://epg.openboxfan.com/xmltv.xml.gz</url>
+      <comment>Lang: RU, Size: ~Mb,  days. Содержит описания передач.</comment>
+      <group>Xmltv,RU,UA,World</group>
+    </epg>
+    
+    <epg>
+      <date>07.07.2020</date>
+      <name>Epg.do.am Epg</name>
+      <url>http://epg.do.am/tv.gz</url>
+      <comment>Lang: RU, Size: ~Mb,  days. Содержит описания передач.</comment>
+      <group>Xmltv,RU,UA,World</group>
+    </epg>    
+
+    <epg>
+      <date>07.07.2020</date>
+      <name>Maxnet Epg</name>
+      <url>http://tv.maxnet.ua/temp/programm_jtv.zip</url>
+      <comment>Lang: RU, Size: ~Mb,  days. Содержит описания передач.</comment>
+      <group>Jtv,RU,UA,World</group>
+    </epg>    
+
+    <epg>
+      <date>07.07.2020</date>
+      <name>Zuram Epg</name>
+      <url>http://epg.zuram.net/xmltv.xml.gz</url>
+      <comment>Lang: RU, Size: ~Mb,  days. Содержит описания передач.</comment>
+      <group>Xmltv,MD,RO,RU</group>
+    </epg>    
+    
+    <epg>
+      <date>05.09.2017</date>
+      <name>Programtv.ru</name>
+      <url>http://programtv.ru/xmltv.xml.gz</url>
+      <comment>Country: ExUSSR, Lang: RU, Size: ~10Mb, 3 days. Содержит описания передач.</comment>
+      <group>Xmltv,exUSSR</group>
     </epg>
 
     <epg>
       <date>07.09.2017</date>
-      <name>[RU][UA] EPG for Edem</name>
+      <name>EPG for Edem</name>
       <url>http://epg.it999.ru/edem.xml.gz</url>
       <comment>Country: ExUSSR, Lang: RU, Size: ~20Mb, 6 days. Содержит описания передач.</comment>
-      <group>exUSSR</group>
+      <group>Xmltv,exUSSR</group>
     </epg>
 
     <epg>
       <date>01.02.2017</date>
-      <name>[RU][UA] K210.org</name>
+      <name>K210.org</name>
       <url>http://tv.k210.org/xmltv.xml.gz</url>
       <comment>Country: ExUSSR, Lang: RU, Size: ~20Mb, 7 days. Содержит описания передач.</comment>
-      <group>exUSSR</group>
-    </epg>
-
-    <epg>
-      <date>09.06.2016</date>
-      <name>[RU][UA] Iptvcm.link</name>
-      <url>http://iptvcm.link/epg/epg.xml.gz</url>
-      <comment>Country: ExUSSR, Lang: RU, Size: ~25Mb, 5 days. Содержит описания передач.</comment>
-      <group>exUSSR</group>
+      <group>Xmltv,RU,UA</group>
     </epg>
 
     <epg>
       <date>05.04.2016</date>
-      <name>[RU][UA] Teleguide</name>
+      <name>Teleguide (Xmltv)</name>
       <url>http://www.teleguide.info/download/new3/xmltv.xml.gz</url>
       <comment>Country: ExUSSR, Lang: RU, Size: ~35Mb, 7 days. Содержит описания передач.</comment>
-      <group>exUSSR</group>
+      <group>Xmltv,RU,UA,World</group>
     </epg>
-
+        
     <epg>
-      <date>01.05.2018</date>
-      <name>Kinokrug</name>
-      <url>http://www.kinokrug.com/tv-programm/tv-kinokrug-xml.gz</url>
-      <comment>Country: ExUSSR, Lang: RU</comment>
-      <group>exUSSR</group>
+      <date>07.07.2020</date>
+      <name>Teleguide (Jtv)</name>
+      <url>http://teleguide.info/download/new3/jtv.zip</url>
+      <comment>Lang: RU, Size: ~Mb,  days. Содержит описания передач.</comment>
+      <group>Jtv,RU,UA,World</group>
     </epg>    
-    
-    <epg>
-      <date>16.06.2018</date>
-      <name>New EPG</name>
-      <url>http://bit.ly/newEPG</url>
-      <comment>Country: ExUSSR+World, Lang: RU,WORLD Size: ~70Mb, 9 days/ Содержит описания передач.</comment>
-      <group>exUSSR, World</group>
-    </epg>   
-
+               
     <epg>
       <date>01.05.2018</date>
       <name>Epg-Sat</name>
       <url>http://www.epg-sat.de/epg/xmltv-ru.xml.gz</url>
       <comment>Country: ExUSSR, Lang: RU</comment>
-      <group>exUSSR</group>
+      <group>Xmltv,RU,UA</group>
     </epg> 
     
     <epg>
       <date>20.06.2019</date>
       <name>Ott Epg</name>
-      <url>https://ottepg.ru/ottepg.xml.gz</url>
+      <url>Xmltv,https://ottepg.ru/ottepg.xml.gz</url>
       <comment>Country: ExUSSR, Lang: RU</comment>
       <group>exUSSR</group>
     </epg> 
