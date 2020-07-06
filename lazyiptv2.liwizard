@@ -803,10 +803,25 @@
     <epg>
       <date>20.06.2019</date>
       <name>Ott Epg</name>
-      <url>Xmltv,https://ottepg.ru/ottepg.xml.gz</url>
+      <url>https://ottepg.ru/ottepg.xml.gz</url>
       <comment>Country: ExUSSR, Lang: RU</comment>
-      <group>exUSSR</group>
+      <group>Xmltv,exUSSR</group>
     </epg> 
     
   </epgs>
+  
+  <links>
+    
+    <link>
+      <date>07.07.2020</date>
+      <url>https://iedem.tv</url>
+      <url_ref>https://iedem.tv/welcome/register/9869385d167ec0fa</url_ref>
+      <name>EdemTV</name>
+      <comment>БОЛЕЕ 1000 КАНАЛОВ + архив на все каналы 4 дня = $1/месяц</comment>
+      <description></comment>
+      <group>iptv,service</group>
+    </link>
+    
+  </links>    
+    
 </wizard>
