@@ -816,9 +816,9 @@
       <date>07.07.2020</date>
       <url>https://iedem.tv</url>
       <url_ref>https://iedem.tv/welcome/register/9869385d167ec0fa</url_ref>
-      <name>EdemTV</name>
-      <comment>БОЛЕЕ 1000 КАНАЛОВ + архив на все каналы 4 дня = $1/месяц</comment>
-      <description>description of service</description>
+      <name>iLookTV (ex EdemTV)</name>
+      <comment>Более 1000 каналов + архив на все каналы 4 дня = $1/месяц</comment>
+      <description>iLookTV - это один из самых популярных и дешёвых сервисов iptv. Несколько серверов (CDN) в разных концах земного шара. Возможность просматривать каналы на разных устройствах и разных системах. Огромный выбор постоянно пополняющихся каналов разных стран. Архив каналов на 4 дня и мултирум на 2 устройства! И все это за $1 в месяц за все каналы!</description>
       <group>iptv,service</group>
     </link>
     
