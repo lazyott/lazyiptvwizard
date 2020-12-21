@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wizard>
   <info>
-    <version>версия 2.002, 24.09.2020</version>
+    <version>версия 2.003, 21.12.2020</version>
     <name>LazyIPTV Deluxe Wizard</name>
     <comment>Wizard-файл для android-приложения LazyIPTV</comment>
     <android_url>https://play.google.com/store/apps/details?id=com.lazycatsoftware.iptv</android_url>
@@ -9,6 +9,42 @@
   </info>
 
   <playlists>
+  
+    <playlist>
+      <date>21.12.2020</date>
+      <name>Immo.date</name>
+      <url>http://immo.date/ero.m3u</url>
+      <comment>immo.date</comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>21.12.2020</date>
+      <name>Test @ 213.183</name>
+      <url>http://213.183.51.196/no_save/playlist/test.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>21.12.2020</date>
+      <name>SL @ tva.in.ua</name>
+      <url>https://tva.in.ua/iptv/9/SL_20.09.2020.m3u</url>
+      <comment>SL @ tva.in.ua</comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>21.12.2020</date>
+      <name>Sam @ tva.in.ua</name>
+      <url>https://tva.in.ua/iptv/s/Sam.ob_1.2020.m3u</url>
+      <comment>Sam @ tva.in.ua</comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые, New</group>
+    </playlist>
 
     <playlist>
       <date>24.09.2020</date>
@@ -16,7 +52,7 @@
       <url>https://webmaster.pp.ua/u/odessa_tv.m3u</url>
       <comment>OdessaTV @ webmaster.pp.ua</comment>
       <update_hours>24</update_hours>
-      <group>UA, Автообновляемые, New</group>
+      <group>UA, Автообновляемые</group>
     </playlist>
     
     <playlist>
@@ -25,7 +61,7 @@
       <url>https://webmaster.pp.ua/u/dagestan.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -34,7 +70,7 @@
       <url>http://nserv.host:5300/iptvforever.m3u8</url>
       <comment>Iptv Forever</comment>
       <update_hours>24</update_hours>
-      <group>RU, UA, Автообновляемые, New</group>
+      <group>RU, UA, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -43,7 +79,7 @@
       <url>http://nserv.host:5300/tvaua.m3u8</url>
       <comment>Tvaua</comment>
       <update_hours>24</update_hours>
-      <group>UA, Автообновляемые, New</group>
+      <group>UA, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -52,7 +88,7 @@
       <url>http://nserv.host:5300/denysclub.m3u8</url>
       <comment>Denys Club</comment>
       <update_hours>24</update_hours>
-      <group>FILMS, RU, Автообновляемые, New</group>
+      <group>FILMS, RU, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -124,7 +160,7 @@
       <url>https://webmaster.pp.ua/u/211_2020.m3u</url>
       <comment>211 @ Webmaster.pp.ua</comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
     
     <playlist>
@@ -254,15 +290,6 @@
     </playlist>
 
     <playlist>
-      <date>01.01.2020</date>
-      <name>Free @ Iptvfreeworld</name>
-      <url>https://iptvfreeworld.ml/live/FREE.m3u</url>
-      <comment>Free @ Iptvfreeworld</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Обновляемый</group>
-    </playlist>
-
-    <playlist>
       <date>05.04.2020</date>
       <name>Iptvm3u</name>
       <url>http://iptvm3u.ru/onelist.m3u</url>
@@ -291,15 +318,6 @@
 
     <playlist>
       <date>06.08.2019</date>
-      <name>One @ tv-smart-tv</name>
-      <url>http://tv-smart-tv.ru/iptv/one.m3u</url>
-      <comment>One @ tv-smart-tv</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Обновляемый</group>
-    </playlist>
-
-    <playlist>
-      <date>06.08.2019</date>
       <name>Tavrida Telecom</name>
       <url>http://tavrida-telecom.ru/iptv.m3u</url>
       <comment>Tavrida Telecom</comment>
@@ -316,24 +334,6 @@
       <group>RU, Обновляемый</group>
     </playlist>
     
-    <playlist>
-      <date>13.07.2019</date>
-      <name>Tv-smart-tv Test</name>
-      <url>http://tv-smart-tv.ru/iptv/pl_test_all.m3u</url>
-      <comment>Tv-smart-tv тест</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Обновляемый</group>
-    </playlist>
-
-    <playlist>
-      <date>13.07.2019</date>
-      <name>Rialist</name>
-      <url>http://realist.zzz.com.ua/Rialist.m3u</url>
-      <comment>Rialist</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Обновляемый</group>
-    </playlist>
-
     <playlist>
       <date>03.06.2020</date>
       <name>Russia Iptv</name>
@@ -371,15 +371,6 @@
     </playlist>
 
     <playlist>
-      <date>29.03.2017</date>
-      <name>Torrent TV (super-pomoyka, по категории)</name>
-      <url>http://pomoyka.win/trash/ttv-list/ace.all.tag.player.m3u</url>
-      <comment>[TTV] Автообновляемый торрент тв плейлист с сайта pomoyka.win Отсортирован по категории/наименованию</comment>
-      <update_hours>24</update_hours>
-      <group>Torrent TV, Обновляемый</group>
-    </playlist>
-    
-    <playlist>
       <name>Iptvm3u</name>
       <url>http://iptvm3u.ru/one.m3u</url>
       <comment>Iptvm3u</comment>
@@ -397,15 +388,6 @@
       <group>RU, Обновляемый</group>
     </playlist>
     
-    <playlist>
-      <name>1005 World</name>
-      <url>http://samigiptv.ucoz.net/Premium/1005World.m3u</url>
-      <comment>1005 World channels</comment>
-      <date>29.03.2019</date>
-      <update_hours>24</update_hours>
-      <group>WORLD, Обновляемый</group>
-    </playlist>
-
     <playlist>
       <name>TV3nbexd</name>
       <url>https://pastebin.com/raw/TV3nbexd</url>
@@ -592,15 +574,6 @@
       <date>18.01.2020</date>
       <update_hours>24</update_hours>
       <group>RU, UA</group>
-    </playlist>
-
-    <playlist>
-      <name>Torrent TV (allfon.tv)</name>
-      <date>26.09.2017</date>
-      <url>http://pomoyka.win/trash/ttv-list/allfon.all.player.m3u</url>
-      <comment>[TTV] Aвтообновляемый торрент тв плейлист с сайта allfon.tv</comment>
-      <update_hours>12</update_hours>
-      <group>Torrent TV, Обновляемый</group>
     </playlist>
     
     <playlist>
