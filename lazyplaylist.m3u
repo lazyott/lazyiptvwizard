@@ -7,20 +7,20 @@ http://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 http://1music.hu/1music.m3u8
 #EXTINF:-1 group-title="Новости",24 канал HD
 http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Региональные",34 канал
-http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",360 Сургут
 http://video1.in-news.ru/360/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Фильмы",43 канал HD
+#EXTINF:-1 group-title="Региональные",43 канал HD
 http://sochi-strk.ru:2015/43Kanal/mpegts
 #EXTINF:-1 group-title="Познавательные",7 TV
 https://v4.proofix.ru/7tv-live/index.m3u8
 #EXTINF:-1 group-title="Новости",7 канал HD (Одесса)
-http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/playlist.m3u8
 #EXTINF:-1 group-title="Эфир",8 Канал
 https://v4.proofix.ru/8tv-russia/index.m3u8
 #EXTINF:-1 group-title="Познавательные",8 Канал (Европа)
 https://v4.proofix.ru/8tv-europe/index.m3u8
+#EXTINF:-1 group-title="Новости",ATR
+http://stream.atr.ua/atr/live/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Brodilo TV HD
 http://brodilo.tv/channel.php
 #EXTINF:-1 group-title="Новости",DW TV English
@@ -35,8 +35,6 @@ http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 http://serv24.vintera.tv:8081/hdmedia/hdmedia_3d/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Hit Music Channel
 http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:-1 group-title="Новости",Hromadske TV
-http://94.45.135.158:1935/live/HrBroadcast/playlist.m3u8
 #EXTINF:-1 group-title="Fashion",ID Fashion HD
 http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 #EXTINF:-1 group-title="Shopping",Leomax +
@@ -54,7 +52,7 @@ http://w4.mostvideo.tv/tv/ch1.m3u8
 #EXTINF:-1 group-title="Музыкальные",Music Box UA
 https://musicbox-hls4.cosmonova.net.ua/hls/musicbox_ua_hi/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",NRJ Hits TV HD
-http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV/playlist.m3u8
+http://tv.ngroup.be:1935/nrj/NRJHitsTV/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Nano TV
 http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTINF:-1 group-title="Музыкальные",OTV Music
@@ -68,15 +66,15 @@ https://flash2.xdevel.com/radiobrunotv/radiobrunotv/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Retro Music TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="Shopping",Shopping Live
-http://origin4.mediacdn.ru/live/shoppinglive/playlist.m3u8
+https://shoppinglive.mediacdn.ru/cdn/shopping/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Познавательные",TV BRICS
+http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Региональные",TV Губерния (Воронеж)
 http://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8
-#EXTINF:-1 group-title="Новости",TV5 Monde Info (FR)
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
 #EXTINF:-1 group-title="Познавательные",TVM Channel
 http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Shopping",Top Shop TV
-http://tv-topshop.netrack.ru/hls/topshop.m3u8
+https://live-topshop.cdnvideo.ru/topshop/topshop_576p/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",UA Крым
 http://uakrim-hls2.cosmonova.net.ua/hls/uakrim_ua_mid/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Univer TV
@@ -89,12 +87,10 @@ http://wfcrus.mediacdn.ru/cdn/wfcrus/playlist_hdhigh.m3u8
 http://xsport-hls2.cosmonova.net.ua/hls/xsport_ua_hi/index.m3u8
 #EXTINF:-1 group-title="Новости",Zik
 http://live-zik-hls1.cosmonova.net.ua/hls/zik_ua_hi/index.m3u8
-#EXTINF:-1 group-title="Региональные",А1 (Одесса)
-http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",Архыз 24 HD
-http://live.mediacdn.ru/sr1/arhis24/chunklist_b2396000.m3u8
+#EXTINF:-1 group-title="Региональные",Алмазный край
+https://stream.almaz-media.tv:8080/hls/576.m3u8
 #EXTINF:-1 group-title="Региональные",Астрахань 24 HD
-http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/index.m3u8
+http://astrakhan24.mediacdn.ru:80/cdn/astrakhan24/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Региональные",Афонтово
 http://xstream.afontovo.ru/afontovo_ya.m3u8
 #EXTINF:-1 group-title="Региональные",БСТ
@@ -122,13 +118,15 @@ https://media1.gubernia.com/hls/live.m3u8
 #EXTINF:-1 group-title="Региональные",Дагестан ТВ
 http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Региональные",Дон 24
-http://donmedia.bonus-tv.ru:80/cdn/donmedia/tracks-v1a1/index.m3u8
+http://donmedia.bonus-tv.ru/cdn/donmedia/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Новости",Евроновости
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
 #EXTINF:-1 group-title="Эфир",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Новости",Известия ТВ HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="Казахстан",КТК
+http://wz-main.ktk.kz/ktklive/live.hq/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Калейдоскоп ТВ
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Красная Линия ТВ
@@ -147,22 +145,24 @@ http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 http://lvms01.inmedis.ru:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Липецкое Время
 http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные",М2
-http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные",М1 HD
+https://live.m2.tv/hls2/1080/stream.m3u8
+#EXTINF:-1 group-title="Музыкальные",М2 HD
+https://live.m2.tv/hls3/1080/stream.m3u8
 #EXTINF:-1 group-title="Региональные",МТВ Волгоград
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Матур ТВ HD
 http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 group-title="Эфир",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Новости",Мир 24 HD
+#EXTINF:-1 group-title="Новости",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",Мир Premium HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",Мир Белогорья
-http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Мордовия 24
 http://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+#EXTINF:-1 group-title="Эфир",Москва 24
+http://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist_3.m3u8
+#EXTINF:-1 group-title="Познавательные",Моя Планета
+http://radio-live-mg.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="Музыкальные",МузСоюз
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
 #EXTINF:-1 group-title="Региональные",НТМ HD (Мордовия)
@@ -181,10 +181,10 @@ http://nikatv.cdnvideo.ru/nikatv/nikatv/playlist.m3u8
 http://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Новый Мир
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 group-title="Региональные",ОРТ Планета
+https://live-media56.cdnvideo.ru/media56-pub/ortoren/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",ОТВ (Серпухов)
 http://live-otvmedia.cdnvideo.ru/otvmedia/otvmedia/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",ОТВ-Прим
-http://flussonic1.podryad.net:80/OTV.stream_360p/index.m3u8
 #EXTINF:-1 group-title="Региональные",Одинцово ТВ
 http://185.18.4.16/live/3m/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Первый Музыкальный BY
@@ -193,7 +193,7 @@ http://rtmp.one.by:1200
 http://rtmp.one.by:2200
 #EXTINF:-1 group-title="Познавательные",Правда ТУТ HD
 http://95.67.77.59/hls/pravdatytkyiv_ua_hi/index.m3u8
-#EXTINF:-1 group-title="Фильмы",Продвижение
+#EXTINF:-1 group-title="Региональные",Продвижение
 http://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Просвещение
 http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
@@ -201,8 +201,6 @@ http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
 http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
 #EXTINF:-1 group-title="Новости",РБК ТВ
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",Радио Страна FM ТВ
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыкальные",Радио Хит (Орск)
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 group-title="Музыкальные",Радио Шансон ТВ
@@ -212,16 +210,18 @@ http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Регион 29 (Архангельск)
 http://live-atkmedia.cdnvideo.ru/atkmedia/atkmedia/playlist.m3u8
 #EXTINF:-1 group-title="Эфир",Рен ТВ
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+http://109.194.62.29:8080/
 #EXTINF:-1 group-title="Эфир",Россия 1 HD
 http://cdn-01.bonus-tv.ru:8080/russiahd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Эфир",Россия 24
-http://gtrk-volga.ru/media/hr24/stream1.m3u8
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 group-title="Эфир",Россия К
+http://radio-live-mg.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
 #EXTINF:-1 group-title="Региональные",Русский Север (Вологда)
-http://rusevertv.ru/576/rs_crf28_.m3u8
+http://185.186.142.16/rs/720/s.m3u8
 #EXTINF:-1 group-title="Беларусь",СТВ (Беларусь)
 http://212.98.171.116/HLS/ctvby/playlist.m3u8
-#EXTINF:-1 group-title="Фильмы",СТРК HD (Сочи)
+#EXTINF:-1 group-title="Региональные",СТРК HD (Сочи)
 http://sochi-strk.ru:2015/STRK/mpegts
 #EXTINF:-1 group-title="Региональные",Салям ТВ
 http://bsttv.bonus-tv.ru/cdn/salyam/playlist_sdhigh.m3u8
@@ -243,10 +243,10 @@ http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
 https://sitv.ru/hls/stv.m3u8
 #EXTINF:-1 group-title="Региональные",Сургут 24
 http://video1.in-news.ru/c24/index.m3u8
+#EXTINF:-1 group-title="Региональные",ТВР 24
+http://live-tvr24.cdnvideo.ru/tvr24/tvr24.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Эфир",ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist_b1703000.m3u8
-#EXTINF:-1 group-title="Региональные",ТКР (Рязань)
-http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",ТНВ Планета
 http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Эфир",ТНТ
@@ -259,10 +259,10 @@ http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
 http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Тивиком (Улан-Удэ)
 http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Региональные",Тис ТВ (Одесса)
+http://cdn10.live-tv.od.ua:8081/riood/tisod720/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Тольятти 24
 http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8
-#EXTINF:-1 group-title="Познавательные",Три Ангела
-http://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 group-title="Региональные",Тюменское Время
 http://hls-sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Центр Красноярск HD
