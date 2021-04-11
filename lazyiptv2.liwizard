@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wizard>
   <info>
-    <version>версия 2.005, 04.03.2021</version>
+    <version>версия 2.006, 10.04.2021</version>
     <name>LazyIPTV Deluxe Wizard</name>
-    <comment>Wizard-файл для android-приложения LazyIPTV Deluxe</comment>
+    <comment>Wizard-файл для android-приложения LazyIPTV</comment>
     <android_url>https://play.google.com/store/apps/details?id=com.lazycatsoftware.iptv</android_url>
     <warning>Весь контент, представленный в этом файле взят из открытых источников!</warning>
   </info>
@@ -11,12 +11,102 @@
   <playlists>
 
     <playlist>
+      <date>10.04.2021</date>
+      <name>Azab @ segaz.my1.ru</name>
+      <url>http://segaz.my1.ru/xml/iptv/azab.m3u</url>
+      <comment>Azab @ segaz.my1.ru</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>10.04.2021</date>
+      <name>350 @ segaz.my1.ru</name>
+      <url>http://segaz.my1.ru/xml/iptv/350.m3u</url>
+      <comment>350 @ segaz.my1.ru</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>10.04.2021</date>
+      <name>Megafon @ bezbe.my1.ru</name>
+      <url>http://bezbe.my1.ru/t/megafon.m3u</url>
+      <comment>Megafon @ bezbe.my1.ru</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>10.04.2021</date>
+      <name>MIX</name>
+      <url>http://gronik.ucoz.ru/MIX.m3u</url>
+      <comment>MIX</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>10.04.2021</date>
+      <name>Youriptv</name>
+      <url>http://uiptv.do.am/pl/youriptv.m3u</url>
+      <comment>Youriptv</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>10.04.2021</date>
+      <name>Filmtv (test)</name>
+      <url>http://filmtv.zapto.org:8050/iptv/TEST123.m3u</url>
+      <comment>Filmtv (test)</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>10.04.2021</date>
+      <name>Lime @ iptvsmotri</name>
+      <url>http://fork.iptvsmotri.ru/lime.m3u</url>
+      <comment>Lime @ iptvsmotri</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>10.04.2021</date>
+      <name>Dima @ Ezua.com</name>
+      <url>http://dima.ezua.com/dimon.m3u8</url>
+      <comment>Dima @ Ezua.com</comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>10.04.2021</date>
+      <name>SL @ tva.in.ua</name>
+      <url>https://tva.org.ua/ip/u/iptv_ukr.m3u</url>
+      <comment>SL @ tva.in.ua</comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые</group>
+    </playlist>
+    
+    <playlist>
+      <date>10.04.2021</date>
+      <name>Sam @ tva.in.ua</name>
+      <url>https://tva.org.ua/ip/sam/sam-03-2021.m3u</url>
+      <comment>Sam @ tva.in.ua</comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
       <date>04.03.2021</date>
       <name>Megogo @ Bluecrabstv</name>
       <url>http://bluecrabstv.do.am/megogo.m3u</url>
       <comment>Megogo @ Bluecrabstv</comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, Films, New</group>
+      <group>RU, Автообновляемые, Films</group>
     </playlist>
     
     <playlist>
@@ -25,7 +115,7 @@
       <url>http://adultiptv.net/lists/all.m3u</url>
       <comment>AdultIptv</comment>
       <update_hours>24</update_hours>
-      <group>Adult, Автообновляемые, New</group>
+      <group>Adult, Автообновляемые</group>
     </playlist>
     
     <playlist>
@@ -34,7 +124,7 @@
       <url>http://iptv.be-gi.ru/playlist/iptv18.m3u</url>
       <comment>iptv18</comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
     
     <playlist>
@@ -43,7 +133,7 @@
       <url>http://fork-portal.ru/no_save/Goodgame.m3u</url>
       <comment>Goodgame @ fork-portal.ru</comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
     
     <playlist>
@@ -52,7 +142,7 @@
       <url>http://fork-portal.ru/no_save/mult.m3u</url>
       <comment>Mult @ fork-portal.ru</comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
     
     <playlist>
@@ -61,7 +151,7 @@
       <url>http://ritsatv.ru/PLAYER/ukraine.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>UA, Автообновляемые, New</group>
+      <group>UA, Автообновляемые</group>
     </playlist>
     
     <playlist>
@@ -70,7 +160,7 @@
       <url>http://mcx-ix.ru/dagtv.m3u</url>
       <comment>Dagtv</comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
     
     <playlist>
@@ -79,7 +169,7 @@
       <url>http://smarttvnews.ru/apps/freeiptv.m3u</url>
       <comment>Freeiptv @ smarttvnews</comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
     
     <playlist>
@@ -129,24 +219,6 @@
 
     <playlist>
       <date>29.01.2021</date>
-      <name>Motivation.pp.ua</name>
-      <url>http://motivation.pp.ua/Stabil_05_18.m3u</url>
-      <comment>Motivation.pp.ua</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>29.01.2021</date>
-      <name>Motivation.pp.ua UA</name>
-      <url>http://motivation.pp.ua/Stabil_05_18_UA.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>UA, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>29.01.2021</date>
       <name>Iptv-m3u.xyz</name>
       <url>http://iptv-m3u.xyz/list/iptv-playlist.m3u</url>
       <comment>Iptv-m3u.xyz</comment>
@@ -186,24 +258,6 @@
       <name>Immo.date</name>
       <url>http://immo.date/ero.m3u</url>
       <comment>immo.date</comment>
-      <update_hours>24</update_hours>
-      <group>UA, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>21.12.2020</date>
-      <name>SL @ tva.in.ua</name>
-      <url>https://tva.in.ua/iptv/9/SL_20.09.2020.m3u</url>
-      <comment>SL @ tva.in.ua</comment>
-      <update_hours>24</update_hours>
-      <group>UA, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>21.12.2020</date>
-      <name>Sam @ tva.in.ua</name>
-      <url>https://tva.in.ua/iptv/s/Sam.ob_1.2020.m3u</url>
-      <comment>Sam @ tva.in.ua</comment>
       <update_hours>24</update_hours>
       <group>UA, Автообновляемые</group>
     </playlist>
@@ -840,7 +894,7 @@
     
     <epg>
       <date>07.07.2020</date>
-      <name>Voka Epg</name>
+      <name>VocTV Epg</name>
       <url>http://bit.ly/voc-tv</url>
       <comment>Lang: RU, Size: ~20Mb, 7 days, 1500+ каналов. Содержит описания передач.</comment>
       <group>Xmltv,exUssr,World</group>
@@ -950,9 +1004,19 @@
       <date>07.07.2020</date>
       <url>https://iedem.tv</url>
       <url_ref>https://iedem.tv/welcome/register/9869385d167ec0fa</url_ref>
-      <name>iLookTV (ex EdemTV)</name>
+      <name>EdemTV</name>
       <comment>Более 1000 каналов + архив на все каналы 4 дня = $1/месяц</comment>
-      <description>iLookTV - это один из самых популярных и дешёвых сервисов iptv. Несколько серверов (CDN) в разных концах земного шара. Возможность просматривать каналы на разных устройствах и разных системах. Огромный выбор постоянно пополняющихся каналов разных стран. Архив каналов на 4 дня и мултирум на 2 устройства! И все это за $1 в месяц за все каналы!</description>
+      <description>EdemTV - это один из самых популярных и дешёвых сервисов iptv. Несколько серверов (CDN) в разных концах земного шара. Возможность просматривать каналы на разных устройствах и разных системах. Огромный выбор постоянно пополняющихся каналов разных стран. Архив каналов на 4 дня и мултирум на 2 устройства! И все это за $1 в месяц за все каналы!</description>
+      <group>iptv,service</group>
+    </link>
+    
+    <link>
+      <date>01.04.2021</date>
+      <url>https://ilook.tv</url>
+      <url_ref>https://ilook.tv/welcome/signup/e2b3dc99e9dc4c10</url_ref>
+      <name>iLookTV</name>
+      <comment>За $1 в месяц, вы получаете более 2000 каналов + архив телепередач на все каналы за 4 дня.</comment>
+      <description>Ilook TV — это современное решение по просмотру любимых телеканалов в любой точке планеты по средствам технологи IPTV (ОТТ). Это новый проект Эдем TV, iptv сервер ilooktv является по своей сути ребрендингом, уже известного iptv сервера Эдем. После регистрации на сайте ilook-TV, на 1 день Вам будет доступен бесплатно полный пакет каналов, для тестирования и ознакомления с сервисом. После чего, Вы сможете продлить подписку или отказаться отказаться.</description>
       <group>iptv,service</group>
     </link>
     
