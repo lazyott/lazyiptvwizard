@@ -16,7 +16,7 @@
       <url>http://segaz.my1.ru/xml/iptv/azab.m3u</url>
       <comment>Azab @ segaz.my1.ru</comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
+      <group>RU, Автообновляемые, New</group>
     </playlist>
 
     <playlist>
@@ -25,7 +25,7 @@
       <url>http://segaz.my1.ru/xml/iptv/350.m3u</url>
       <comment>350 @ segaz.my1.ru</comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
+      <group>RU, Автообновляемые, New</group>
     </playlist>
 
     <playlist>
@@ -34,7 +34,7 @@
       <url>http://bezbe.my1.ru/t/megafon.m3u</url>
       <comment>Megafon @ bezbe.my1.ru</comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
+      <group>RU, Автообновляемые, New</group>
     </playlist>
 
     <playlist>
@@ -43,7 +43,7 @@
       <url>http://gronik.ucoz.ru/MIX.m3u</url>
       <comment>MIX</comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
+      <group>RU, Автообновляемые, New</group>
     </playlist>
 
     <playlist>
@@ -52,7 +52,7 @@
       <url>http://uiptv.do.am/pl/youriptv.m3u</url>
       <comment>Youriptv</comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
+      <group>RU, Автообновляемые, New</group>
     </playlist>
 
     <playlist>
@@ -61,7 +61,7 @@
       <url>http://filmtv.zapto.org:8050/iptv/TEST123.m3u</url>
       <comment>Filmtv (test)</comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
+      <group>RU, Автообновляемые, New</group>
     </playlist>
 
     <playlist>
@@ -70,7 +70,7 @@
       <url>http://fork.iptvsmotri.ru/lime.m3u</url>
       <comment>Lime @ iptvsmotri</comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
+      <group>RU, Автообновляемые, New</group>
     </playlist>
 
     <playlist>
@@ -79,7 +79,7 @@
       <url>http://dima.ezua.com/dimon.m3u8</url>
       <comment>Dima @ Ezua.com</comment>
       <update_hours>24</update_hours>
-      <group>UA, Автообновляемые</group>
+      <group>UA, Автообновляемые, New</group>
     </playlist>
 
     <playlist>
@@ -88,7 +88,7 @@
       <url>https://tva.org.ua/ip/u/iptv_ukr.m3u</url>
       <comment>SL @ tva.in.ua</comment>
       <update_hours>24</update_hours>
-      <group>UA, Автообновляемые</group>
+      <group>UA, Автообновляемые, New</group>
     </playlist>
     
     <playlist>
