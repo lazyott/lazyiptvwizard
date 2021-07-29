@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wizard>
   <info>
-    <version>версия 2.007, 01.05.2021</version>
+    <version>версия 2.008, 01.04.2021</version>
     <name>LazyIPTV Deluxe Wizard</name>
     <comment>Wizard-файл для android-приложения LazyIPTV</comment>
     <android_url>https://play.google.com/store/apps/details?id=com.lazycatsoftware.iptv</android_url>
@@ -9,6 +9,105 @@
   </info>
 
   <playlists>
+
+    <playlist>
+      <date>30.07.2021</date>
+      <name>Avto Iptv TVA</name>
+      <url>https://tva.org.ua/ip/sam/avto-iptv-tva.m3u</url>
+      <comment>Avto Iptv TVA</comment>
+      <update_hours>24</update_hours>
+      <group>RU, UA, World, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.07.2021</date>
+      <name>Kino @ Ekzo</name>
+      <url>https://ekzo.ucoz.net/m3u/kino_i_serialy.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>Films, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.07.2021</date>
+      <name>Regionalnye @ Ekzo</name>
+      <url>https://ekzo.ucoz.net/m3u/regionalnye.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.07.2021</date>
+      <name>Filmy @ Ekzo</name>
+      <url>https://ekzo.ucoz.net/m3u/filmy.m3u</url>
+      <comment>Filmy @ Ekzo</comment>
+      <update_hours>24</update_hours>
+      <group>Films, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.07.2021</date>
+      <name>Zabava @ iptvsmotri.ru</name>
+      <url>http://fork.iptvsmotri.ru/zabava.m3u8</url>
+      <comment>Zabava @ iptvsmotri.ru</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.07.2021</date>
+      <name>p5hi7 @ iptvsmotri.ru</name>
+      <url>http://fork.iptvsmotri.ru/2/p5hi7.m3u</url>
+      <comment>p5hi7 @ iptvsmotri.ru</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.07.2021</date>
+      <name>Grandruziev TV</name>
+      <url>http://iah.at.ua/grandruzievtv.m3u</url>
+      <comment>Grandruziev TV</comment>
+      <update_hours>24</update_hours>
+      <group>RU, UA, Films, Worls, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.07.2021</date>
+      <name>Tatar TV</name>
+      <url>https://radiotmk.ru/iptv/tatartv.m3u</url>
+      <comment>Tatar TV</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.07.2021</date>
+      <name>Kino.watch</name>
+      <url>https://kino.watch/iptv.m3u</url>
+      <comment>Kino.watch</comment>
+      <update_hours>24</update_hours>
+      <group>Films, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.07.2021</date>
+      <name>Viva Russia</name>
+      <url>http://viva-russia.ru/iptv.m3u</url>
+      <comment>Viva Russia</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.07.2021</date>
+      <name></name>
+      <url></url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
 
     <playlist>
       <date>01.05.2021</date>
@@ -35,24 +134,6 @@
       <comment>P#@$# @ bluecrabstv</comment>
       <update_hours>24</update_hours>
       <group>RU, Автообновляемые, Adult, New</group>
-    </playlist>
-
-    <playlist>
-      <date>10.04.2021</date>
-      <name>Azab @ segaz.my1.ru</name>
-      <url>http://segaz.my1.ru/xml/iptv/azab.m3u</url>
-      <comment>Azab @ segaz.my1.ru</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>10.04.2021</date>
-      <name>350 @ segaz.my1.ru</name>
-      <url>http://segaz.my1.ru/xml/iptv/350.m3u</url>
-      <comment>350 @ segaz.my1.ru</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -147,15 +228,6 @@
     
     <playlist>
       <date>04.03.2021</date>
-      <name>Iptv18</name>
-      <url>http://iptv.be-gi.ru/playlist/iptv18.m3u</url>
-      <comment>iptv18</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-    
-    <playlist>
-      <date>04.03.2021</date>
       <name>Goodgame @ fork-portal.ru</name>
       <url>http://fork-portal.ru/no_save/Goodgame.m3u</url>
       <comment>Goodgame @ fork-portal.ru</comment>
@@ -208,24 +280,6 @@
       <group>UA, Автообновляемые</group>
     </playlist>
     
-    <playlist>
-      <date>29.01.2021</date>
-      <name>Akta.ua</name>
-      <url>https://akta.ua/1.m3u</url>
-      <comment>akta.ua</comment>
-      <update_hours>24</update_hours>
-      <group>UA, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>29.01.2021</date>
-      <name>Youriptv @ segaz.my1.ru</name>
-      <url>http://segaz.my1.ru/xml/iptv/youriptv.m3u</url>
-      <comment>Youriptv @ segaz.my1.ru</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-
     <playlist>
       <date>29.01.2021</date>
       <name>Tvbox.one</name>
@@ -407,15 +461,6 @@
     </playlist>
     
     <playlist>
-      <date>19.07.2020</date>
-      <name>Film @ d-tv</name>
-      <url>http://dmitry-tv.my1.ru/iptv/film_d-tv.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>FILMS, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
       <date>03.06.2020</date>
       <name>Tva.in.ua</name>
       <url>https://tva.in.ua/iptv/iptv_ukr.m3u</url>
@@ -575,15 +620,6 @@
       <date>13.03.2019</date>
       <update_hours>24</update_hours>
       <group>RU, AM, Обновляемый</group>
-    </playlist>
-
-    <playlist>
-      <name>Dmitry-tv</name>
-      <url>http://dmitry-tv.my1.ru/iptv/Dmitry-tv.m3u</url>
-      <comment>Dmitry-tv</comment>
-      <date>03.03.2019</date>
-      <update_hours>24</update_hours>
-      <group>RU, UA, Обновляемый</group>
     </playlist>
 
     <playlist>
@@ -1031,7 +1067,7 @@
       <date>01.05.2021</date>
       <url>http://viplime.fun</url>
       <url_ref>http://viplime.fun/index.php?user=28273</url_ref>
-      <name>VipLime</name>
+      <name>VipLime/</name>
       <comment>Более 1000 каналов за 0.5$ в месяц.</comment>
       <description>Сервис предоставляет возможность смотреть более 1000 ТВ каналов различных тематик и стран. Каналы сгруппированы по категориям от "Новостные" до "Для взрослых". Тест на 1 день. Смотри везде, на компьютере, смартфоне, планшете или телевизоре. Различные форматы плейлистов.</description>
       <group>iptv,service</group>
