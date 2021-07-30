@@ -101,15 +101,6 @@
     </playlist>
 
     <playlist>
-      <date>30.07.2021</date>
-      <name></name>
-      <url></url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
-    </playlist>
-
-    <playlist>
       <date>01.05.2021</date>
       <name>Playlive @ jeka345</name>
       <url>https://jeka345.github.io/playlive.m3u</url>
