@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wizard>
+  <info>
+    <version>версия 1.143, 30.07.2021</version>
+    <name>LazyIPTV Wizard</name>
+    <comment>Файл импорта плейлистов/epg для android-приложения LazyIPTV</comment>
+    <android_url>https://play.google.com/store/apps/details?id=com.lazycatsoftware.iptv</android_url>
+    <warning>Весь контент, представленный в этом файле взят из открытых источников!</warning>
+  </info>
+
+  <playlists>
+  
+      <playlist>
+      <date>30.07.2021</date>
+      <name>Avto Iptv TVA</name>
+      <url>https://tva.org.ua/ip/sam/avto-iptv-tva.m3u</url>
+      <comment>Avto Iptv TVA</comment>
+      <update_hours>24</update_hours>
+      <group>RU, UA, World, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.07.2021</date>
+      <name>Kino @ Ekzo</name>
+      <url>https://ekzo.ucoz.net/m3u/kino_i_serialy.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>Films, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.07.2021</date>
+      <name>Regionalnye @ Ekzo</name>
+      <url>https://ekzo.ucoz.net/m3u/regionalnye.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.07.2021</date>
+      <name>Filmy @ Ekzo</name>
+      <url>https://ekzo.ucoz.net/m3u/filmy.m3u</url>
+      <comment>Filmy @ Ekzo</comment>
+      <update_hours>24</update_hours>
+      <group>Films, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.07.2021</date>
+      <name>Zabava @ iptvsmotri.ru</name>
+      <url>http://fork.iptvsmotri.ru/zabava.m3u8</url>
+      <comment>Zabava @ iptvsmotri.ru</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.07.2021</date>
+      <name>p5hi7 @ iptvsmotri.ru</name>
+      <url>http://fork.iptvsmotri.ru/2/p5hi7.m3u</url>
+      <comment>p5hi7 @ iptvsmotri.ru</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.07.2021</date>
+      <name>Grandruziev TV</name>
+      <url>http://iah.at.ua/grandruzievtv.m3u</url>
+      <comment>Grandruziev TV</comment>
+      <update_hours>24</update_hours>
+      <group>RU, UA, Films, Worls, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.07.2021</date>
+      <name>Tatar TV</name>
+      <url>https://radiotmk.ru/iptv/tatartv.m3u</url>
+      <comment>Tatar TV</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.07.2021</date>
+      <name>Kino.watch</name>
+      <url>https://kino.watch/iptv.m3u</url>
+      <comment>Kino.watch</comment>
+      <update_hours>24</update_hours>
+      <group>Films, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.07.2021</date>
+      <name>Viva Russia</name>
+      <url>http://viva-russia.ru/iptv.m3u</url>
+      <comment>Viva Russia</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>10.04.2021</date>
+      <name>Megafon @ bezbe.my1.ru</name>
+      <url>http://bezbe.my1.ru/t/megafon.m3u</url>
+      <comment>Megafon @ bezbe.my1.ru</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>10.04.2021</date>
+      <name>MIX</name>
+      <url>http://gronik.ucoz.ru/MIX.m3u</url>
+      <comment>MIX</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>10.04.2021</date>
+      <name>Youriptv</name>
+      <url>http://uiptv.do.am/pl/youriptv.m3u</url>
+      <comment>Youriptv</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>10.04.2021</date>
+      <name>Filmtv (test)</name>
+      <url>http://filmtv.zapto.org:8050/iptv/TEST123.m3u</url>
+      <comment>Filmtv (test)</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>10.04.2021</date>
+      <name>Lime @ iptvsmotri</name>
+      <url>http://fork.iptvsmotri.ru/lime.m3u</url>
+      <comment>Lime @ iptvsmotri</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>10.04.2021</date>
+      <name>Dima @ Ezua.com</name>
+      <url>http://dima.ezua.com/dimon.m3u8</url>
+      <comment>Dima @ Ezua.com</comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>10.04.2021</date>
+      <name>SL @ tva.in.ua</name>
+      <url>https://tva.org.ua/ip/u/iptv_ukr.m3u</url>
+      <comment>SL @ tva.in.ua</comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые, New</group>
+    </playlist>
+    
+    <playlist>
+      <date>10.04.2021</date>
+      <name>Sam @ tva.in.ua</name>
+      <url>https://tva.org.ua/ip/sam/sam-03-2021.m3u</url>
+      <comment>Sam @ tva.in.ua</comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>04.03.2021</date>
+      <name>Megogo @ Bluecrabstv</name>
+      <url>http://bluecrabstv.do.am/megogo.m3u</url>
+      <comment>Megogo @ Bluecrabstv</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, Films</group>
+    </playlist>
+    
+    <playlist>
+      <date>04.03.2021</date>
+      <name>AdultIptv</name>
+      <url>http://adultiptv.net/lists/all.m3u</url>
+      <comment>AdultIptv</comment>
+      <update_hours>24</update_hours>
+      <group>Adult, Автообновляемые</group>
+    </playlist>
+    
+    <playlist>
+      <date>04.03.2021</date>
+      <name>Goodgame @ fork-portal.ru</name>
+      <url>http://fork-portal.ru/no_save/Goodgame.m3u</url>
+      <comment>Goodgame @ fork-portal.ru</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые</group>
+    </playlist>
+    
+    <playlist>
+      <date>04.03.2021</date>
+      <name>Mult @ fork-portal.ru</name>
+      <url>http://fork-portal.ru/no_save/mult.m3u</url>
+      <comment>Mult @ fork-portal.ru</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые</group>
+    </playlist>
+    
+    <playlist>
+      <date>04.03.2021</date>
+      <name>Ritsatv.ru</name>
+      <url>http://ritsatv.ru/PLAYER/ukraine.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые</group>
+    </playlist>
+    
+    <playlist>
+      <date>04.03.2021</date>
+      <name>Dagtv</name>
+      <url>http://mcx-ix.ru/dagtv.m3u</url>
+      <comment>Dagtv</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые</group>
+    </playlist>
+    
+    <playlist>
+      <date>04.03.2021</date>
+      <name>Freeiptv @ smarttvnews</name>
+      <url>http://smarttvnews.ru/apps/freeiptv.m3u</url>
+      <comment>Freeiptv @ smarttvnews</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые</group>
+    </playlist>
+
+
+    <playlist>
+      <date>29.01.2021</date>
+      <name>Smarttvnews</name>
+      <url>http://smarttvnews.ru/apps/ukraine.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые</group>
+    </playlist>
+    
+    <playlist>
+      <date>29.01.2021</date>
+      <name>Tvbox.one</name>
+      <url>https://www.tvbox.one/iptv/playlist.m3u</url>
+      <comment>Tvbox.one</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>29.01.2021</date>
+      <name>Tvpremiumhd.club</name>
+      <url>http://tvpremiumhd.club/hd/tv.m3u</url>
+      <comment>Tvpremiumhd.club</comment>
+      <update_hours>24</update_hours>
+      <group>WORLD, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>29.01.2021</date>
+      <name>Motivation.pp.ua</name>
+      <url>http://motivation.pp.ua/Stabil_05_18.m3u</url>
+      <comment>Motivation.pp.ua</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>29.01.2021</date>
+      <name>Motivation.pp.ua UA</name>
+      <url>http://motivation.pp.ua/Stabil_05_18_UA.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>29.01.2021</date>
+      <name>Iptv-m3u.xyz</name>
+      <url>http://iptv-m3u.xyz/list/iptv-playlist.m3u</url>
+      <comment>Iptv-m3u.xyz</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>29.01.2021</date>
+      <name>Mediateka @ Bluecrabstv</name>
+      <url>http://bluecrabstv.do.am/mediateka.m3u</url>
+      <comment>Mediateka @ Bluecrabstv</comment>
+      <update_hours>24</update_hours>
+      <group>FILMS, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>29.01.2021</date>
+      <name>Music @ iptv-m3u.xyz</name>
+      <url>http://iptv-m3u.xyz/list/music.m3u</url>
+      <comment>Music @ iptv-m3u.xyz</comment>
+      <update_hours>24</update_hours>
+      <group>MUSIC, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>29.01.2021</date>
+      <name>Films @ iptv-m3u.xyz</name>
+      <url>http://iptv-m3u.xyz/list/cinematic.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>FILMS, Автообновляемые</group>
+    </playlist>
+    
+    <playlist>
+      <date>21.12.2020</date>
+      <name>Immo.date</name>
+      <url>http://immo.date/ero.m3u</url>
+      <comment>immo.date</comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>21.12.2020</date>
+      <name>SL @ tva.in.ua</name>
+      <url>https://tva.in.ua/iptv/9/SL_20.09.2020.m3u</url>
+      <comment>SL @ tva.in.ua</comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>21.12.2020</date>
+      <name>Sam @ tva.in.ua</name>
+      <url>https://tva.in.ua/iptv/s/Sam.ob_1.2020.m3u</url>
+      <comment>Sam @ tva.in.ua</comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые</group>
+    </playlist>
+      
+    <playlist>
+        <name>LazyPlaylist (ver 1.48)</name>
+        <source>I0VYVElORjotMSBncm91cC10aXRsZT3igJ3QndC+0LLQvtGB0YLQuOKAnSwxMTIg0KPQutGA0LDQuNC90LAgSEQKaHR0cDovL2FwcC5saXZlLjExMi5ldmVudHMvaGxzLzExMmhkX2hpL2luZGV4Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QoNC10LPQuNC+0L3QsNC70YzQvdGL0LXigJ0sMTIg0JrQsNC90LDQuyAo0J7QvNGB0LopCmh0dHA6Ly8xMmNoYW5uZWwuYm9udXMtdHYucnUvY2RuLzEyY2hhbm5lbC9wbGF5bGlzdC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0JzRg9C30YvQutCw0LvRjNC90YvQteKAnSwxTXVzaWMgSFUKaHR0cDovLzFtdXNpYy5odS8xbXVzaWMubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCd0L7QstC+0YHRgtC44oCdLDI0INC60LDQvdCw0LsgSEQKaHR0cDovL3N0cmVhbXZpZGVvbDEubHV4bmV0LnVhL25ld3MyNC9uZXdzMjQuc3RyZWFtL2NodW5rbGlzdC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0KDQtdCz0LjQvtC90LDQu9GM0L3Ri9C14oCdLDM2MCDQodGD0YDQs9GD0YIKaHR0cDovL3ZpZGVvMS5pbi1uZXdzLnJ1LzM2MC90cmFja3MtdjFhMS9pbmRleC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0KDQtdCz0LjQvtC90LDQu9GM0L3Ri9C14oCdLDQzINC60LDQvdCw0LsgSEQKaHR0cDovL3NvY2hpLXN0cmsucnU6MjAxNS80M0thbmFsL21wZWd0cwojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCf0L7Qt9C90LDQstCw0YLQtdC70YzQvdGL0LXigJ0sNyBUVgpodHRwczovL3Y0LnByb29maXgucnUvN3R2LWxpdmUvaW5kZXgubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCd0L7QstC+0YHRgtC44oCdLDcg0LrQsNC90LDQuyBIRCAo0J7QtNC10YHRgdCwKQpodHRwOi8vY2RuMTAubGl2ZS10di5vZC51YTo4MDgxLzd0dm9kLzd0dm9kLWFici9wbGF5bGlzdC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0K3RhNC40YDigJ0sOCDQmtCw0L3QsNC7Cmh0dHBzOi8vdjQucHJvb2ZpeC5ydS84dHYtcnVzc2lhL2luZGV4Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3Qn9C+0LfQvdCw0LLQsNGC0LXQu9GM0L3Ri9C14oCdLDgg0JrQsNC90LDQuyAo0JXQstGA0L7Qv9CwKQpodHRwczovL3Y0LnByb29maXgucnUvOHR2LWV1cm9wZS9pbmRleC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0JrQsNC30LDRhdGB0YLQsNC94oCdLEFsbWF0eSBUVgpodHRwOi8vbGl2ZS1hbG1hdHl0di5jZG52aWRlby5ydS9hbG1hdHl0di9hbG1hdHl0di5zZHAvcGxheWxpc3QubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCf0L7Qt9C90LDQstCw0YLQtdC70YzQvdGL0LXigJ0sQnJvZGlsbyBUViBIRApodHRwOi8vYnJvZGlsby50di9jaGFubmVsLnBocAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCd0L7QstC+0YHRgtC44oCdLERXIFRWIEVuZ2xpc2gKaHR0cDovL2R3c3RyZWFtNC1saC5ha2FtYWloZC5uZXQvaS9kd3N0cmVhbTRfbGl2ZUAxMzEzMjkvaW5kZXhfMV9hdi1iLm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3Qn9C+0LfQvdCw0LLQsNGC0LXQu9GM0L3Ri9C14oCdLEUgVFYgSEQKaHR0cDovL2Nkbi0wMS5ib251cy10di5ydTo4MC9nc2wvdHJhY2tzLXYxYTEvbW9uby5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0J3QvtCy0L7RgdGC0LjigJ0sRnJhbmNlIDI0IEVuZ2xpc2gKaHR0cDovL2YyNGhscy1pLmFrYW1haWhkLm5ldC9obHMvbGl2ZS8yMjExNDcvRjI0X0VOX0hJX0hMUy9tYXN0ZXJfMjAwMC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCdRmFzaGlvbuKAnSxIRCBGYXNoaW9uICYgTGlmZXN0eWxlIFVBCmh0dHA6Ly85NS42Ny40Ny4xMTQvaGxzL2hkZmFzaGlvbl91YV9oaS9pbmRleC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0J/QvtC30L3QsNCy0LDRgtC10LvRjNC90YvQteKAnSxIRCBNZWRpYSAzRApodHRwOi8vc2VydjI0LnZpbnRlcmEudHY6ODA4MS9oZG1lZGlhL2hkbWVkaWFfM2QvcGxheWxpc3QubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCc0YPQt9GL0LrQsNC70YzQvdGL0LXigJ0sSGl0IE11c2ljIENoYW5uZWwKaHR0cDovL2hpdG11c2ljLmh1L2hpdG11c2ljLm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ1GYXNoaW9u4oCdLElEIEZhc2hpb24gSEQKaHR0cDovL2lkZmFzaGlvbi1obHMxLmNvc21vbm92YS5uZXQudWEvaGxzL2lkZmFzaGlvbl91YV9oaS9pbmRleC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCdU2hvcHBpbmfigJ0sTGVvbWF4ICsKaHR0cDovL3R2c2hvcHMuYm9udXMtdHYucnU6ODAvY2RuL2Rpc2NvdW50L3RyYWNrcy12MWExL2luZGV4Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ1TaG9wcGluZ+KAnSxMZW9tYXggMjQKaHR0cDovL3R2c2hvcHMuYm9udXMtdHYucnU6ODAvY2RuL3Nob3AyNC90cmFja3MtdjFhMS9pbmRleC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCdRmFzaGlvbuKAnSxMdXh1cnkgSEQKaHR0cDovL25hbm8udGVsZXNlcnZpY2Uuc3U6ODA4MC9obHMvbHV4dXJ5Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QoNC10LPQuNC+0L3QsNC70YzQvdGL0LXigJ0sTVRWIE1peCAo0KPRhNCwKQpodHRwOi8vODEuMzAuMTgyLjgyOjE4MDkyL2hscy9saXZlLm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3Qn9C+0LfQvdCw0LLQsNGC0LXQu9GM0L3Ri9C14oCdLE1vc29iciBUVgpodHRwOi8vcmV0Yy5lZHVjb20ucnUvbW9zb2JydHYvdHYxL2luZGV4Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QodC/0L7RgNGC0LjQstC90YvQteKAnSxNb3N0VmlkZW8gVFYgSEQKaHR0cDovL3c0Lm1vc3R2aWRlby50di90di9jaDEubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCc0YPQt9GL0LrQsNC70YzQvdGL0LXigJ0sTXVzaWMgQm94IFVBCmh0dHBzOi8vbXVzaWNib3gtaGxzNC5jb3Ntb25vdmEubmV0LnVhL2hscy9tdXNpY2JveF91YV9oaS9pbmRleC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0JzRg9C30YvQutCw0LvRjNC90YvQteKAnSxOUkogSGl0cyBUViBIRApodHRwOi8vdHYubmdyb3VwLmJlOjE5MzUvbnJqL05SSkhpdHNUVi9wbGF5bGlzdC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0J/QvtC30L3QsNCy0LDRgtC10LvRjNC90YvQteKAnSxOYW5vIFRWCmh0dHA6Ly9uYW5vLnRlbGVzZXJ2aWNlLnN1OjgwODAvaGxzL25hbm8ubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCc0YPQt9GL0LrQsNC70YzQvdGL0LXigJ0sT1RWIE11c2ljCmh0dHA6Ly8yMTIuMjYuMTQ2LjE0OC9obHMvb3R2Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QndC+0LLQvtGB0YLQuOKAnSxSVCBIRApodHRwOi8vY2RuLTAxLmJvbnVzLXR2LnJ1OjgwODAvUnVzc2lhVG9kYXkvdHJhY2tzLXYxYTEvaW5kZXgubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCf0L7Qt9C90LDQstCw0YLQtdC70YzQvdGL0LXigJ0sUlQg0JTQvtC60YPQvNC10L3RgtCw0LvRjNC90YvQuSBIRApodHRwczovL3J0bXAuYXBpLnJ0LmNvbS9obHMvcnRkcnUubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCc0YPQt9GL0LrQsNC70YzQvdGL0LXigJ0sUmFkaW8gQnJ1bm8gVFYKaHR0cHM6Ly9mbGFzaDIueGRldmVsLmNvbS9yYWRpb2JydW5vdHYvcmFkaW9icnVub3R2L3BsYXlsaXN0Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QnNGD0LfRi9C60LDQu9GM0L3Ri9C14oCdLFJldHJvIE11c2ljIFRWCmh0dHA6Ly9zdHJlYW0ubWVkaWF3b3JrLmN6L3JldHJvdHYvcmV0cm90dkhRMS9wbGF5bGlzdC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCdU2hvcHBpbmfigJ0sU2hvcHBpbmcgTGl2ZQpodHRwczovL3Nob3BwaW5nbGl2ZS5tZWRpYWNkbi5ydS9jZG4vc2hvcHBpbmcvcGxheWxpc3Rfc2RoaWdoLm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3Qn9C+0LfQvdCw0LLQsNGC0LXQu9GM0L3Ri9C14oCdLFRWIEJSSUNTCmh0dHA6Ly9ydXNicmljcy5tZWRpYWNkbi5ydS9jZG4vYnJpY3MvcnVzc2lhbi9wbGF5bGlzdF9oZGhpZ2gubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCg0LXQs9C40L7QvdCw0LvRjNC90YvQteKAnSxUViDQk9GD0LHQtdGA0L3QuNGPICjQktC+0YDQvtC90LXQtikKaHR0cDovL3R2Z3ViZXJuaWEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2xpdmUvbXA0OnR2LWd1YmVybmlhLWxpdmUvcGxheWxpc3QubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCf0L7Qt9C90LDQstCw0YLQtdC70YzQvdGL0LXigJ0sVFZNIENoYW5uZWwKaHR0cDovL2Nkbi0wMS5ib251cy10di5ydTo4MDgwL3R2bV9lZGdlL3RyYWNrcy12MWExL2luZGV4Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ1TaG9wcGluZ+KAnSxUb3AgU2hvcCBUVgpodHRwczovL2xpdmUtdG9wc2hvcC5jZG52aWRlby5ydS90b3BzaG9wL3RvcHNob3BfNTc2cC9wbGF5bGlzdC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0KDQtdCz0LjQvtC90LDQu9GM0L3Ri9C14oCdLFVBINCa0YDRi9C8Cmh0dHA6Ly91YWtyaW0taGxzMi5jb3Ntb25vdmEubmV0LnVhL2hscy91YWtyaW1fdWFfbWlkL2luZGV4Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3Qn9C+0LfQvdCw0LLQsNGC0LXQu9GM0L3Ri9C14oCdLFVuaXZlciBUVgpodHRwOi8vY2RuLnVuaXZlcnNtb3RyaS5ydS9saXZlL2hxLnNkcC9wbGF5bGlzdC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCdRmFzaGlvbuKAnSxXb3JsZCBGYXNoaW9uIENoYW5uZWwgSW50ZXJuYXRpb25hbCBIRApodHRwOi8vd2ZjaW50Lm1lZGlhY2RuLnJ1L2Nkbi93ZmNpbnQvcGxheWxpc3RfaGRoaWdoLm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ1GYXNoaW9u4oCdLFdvcmxkIEZhc2hpb24gQ2hhbm5lbCDQoNC+0YHRgdC40Y8gSEQKaHR0cDovL3dmY3J1cy5tZWRpYWNkbi5ydS9jZG4vd2ZjcnVzL3BsYXlsaXN0X2hkaGlnaC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0KHQv9C+0YDRgtC40LLQvdGL0LXigJ0sWHNwb3J0IFRWIEhECmh0dHA6Ly94c3BvcnQtaGxzMi5jb3Ntb25vdmEubmV0LnVhL2hscy94c3BvcnRfdWFfaGkvaW5kZXgubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCd0L7QstC+0YHRgtC44oCdLFppawpodHRwOi8vbGl2ZS16aWstaGxzMS5jb3Ntb25vdmEubmV0LnVhL2hscy96aWtfdWFfaGkvaW5kZXgubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCg0LXQs9C40L7QvdCw0LvRjNC90YvQteKAnSzQkNC70LzQsNC30L3Ri9C5INC60YDQsNC5Cmh0dHBzOi8vc3RyZWFtLmFsbWF6LW1lZGlhLnR2OjgwODAvaGxzLzU3Ni5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0KDQtdCz0LjQvtC90LDQu9GM0L3Ri9C14oCdLNCQ0YHRgtGA0LDRhdCw0L3RjCAyNCBIRApodHRwOi8vYXN0cmFraGFuMjQubWVkaWFjZG4ucnU6ODAvY2RuL2FzdHJha2hhbjI0L3BsYXlsaXN0X2hkaGlnaC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0KDQtdCz0LjQvtC90LDQu9GM0L3Ri9C14oCdLNCQ0YTQvtC90YLQvtCy0L4KaHR0cDovL3hzdHJlYW0uYWZvbnRvdm8ucnUvYWZvbnRvdm9feWEubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCg0LXQs9C40L7QvdCw0LvRjNC90YvQteKAnSzQkdCh0KIKaHR0cDovL2JzdHR2LmJvbnVzLXR2LnJ1OjgwL2Nkbi9ic3QvcGxheWxpc3QubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCR0LXQu9Cw0YDRg9GB0YzigJ0s0JHQtdC70KDQvtGBCmh0dHA6Ly9saXZlMi5tZWRpYWNkbi5ydS9zcjEvdHJvL2NodW5rbGlzdF9iMTYzNDMwNC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0KDQtdCz0LjQvtC90LDQu9GM0L3Ri9C14oCdLNCR0LXQu9Cz0L7RgNC+0LQgMjQKaHR0cDovL2JlbG5vdm9zdGkuY2RuLmVhc3lob3N0ZXIucnU6ODA4MC9zdHJlYW0ubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCg0LXQs9C40L7QvdCw0LvRjNC90YvQteKAnSzQktCw0YDQuNCw0L3RgiDQotCSICjQktC70LDQtNC40LzQuNGAKQpodHRwOi8vdmFyaWFudC12LnJ1L29ubGluZS9wbGF5bGlzdC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0KDQtdCz0LjQvtC90LDQu9GM0L3Ri9C14oCdLNCS0LXRgdGC0L3QuNC6INCd0LDQtNGL0LzQsApodHRwOi8vbGl2ZS10cmtuYWR5bS5jZG52aWRlby5ydS90cmtuYWR5bS1wdWIvdHJrbmFkeW0uc2RwL3BsYXlsaXN0Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QoNC10LPQuNC+0L3QsNC70YzQvdGL0LXigJ0s0JLQtdGC0YLQsCAyNApodHRwOi8vc2VydjI0LnZpbnRlcmEudHY6ODA4MS92ZXR0YS92ZXR0YV9vZmZpY2UvcGxheWxpc3QubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAnVNob3BwaW5n4oCdLNCS0LjRgtGA0LjQvdCwINCi0JIKaHR0cHM6Ly92NC5wcm9vZml4LnJ1L3ZpdHJpbmEtbGl2ZS9pbmRleC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0J/QvtC30L3QsNCy0LDRgtC10LvRjNC90YvQteKAnSzQktC80LXRgdGC0LUg0KDQpApodHRwOi8vdm1lc3RlcmYuYm9udXMtdHYucnU6ODAvY2RuL3ZtZXN0ZXJmL3RyYWNrcy12MWExL2luZGV4Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QoNC10LPQuNC+0L3QsNC70YzQvdGL0LXigJ0s0JPQvtGA0L7QtNGB0LrQvtC5INGC0LXQu9C10LrQsNC90LDQuyAo0K/RgNC+0YHQu9Cw0LLQu9GMKQpodHRwOi8vd3d3Lmd0ay50di9obHMvZ3R5YXIubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCg0LXQs9C40L7QvdCw0LvRjNC90YvQteKAnSzQk9GA0L7Qt9C90YvQuSDQotCSCmh0dHBzOi8vZWRnZS10di1sbC5mYWNlY2FzdC5pby9ldmFjb2Rlcl9obHNfaGkvVVVNTFFWQVlWbFp5SDE0R1JFTlFWVjBHLzIvNzIwLTMubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCg0LXQs9C40L7QvdCw0LvRjNC90YvQteKAnSzQk9GD0LHQtdGA0L3QuNGPICjQpdCw0LHQsNGA0L7QstGB0LopCmh0dHBzOi8vbWVkaWExLmd1YmVybmlhLmNvbS9obHMvbGl2ZS5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0KDQtdCz0LjQvtC90LDQu9GM0L3Ri9C14oCdLNCU0LDQs9C10YHRgtCw0L0g0KLQkgpodHRwOi8vZGFnZXN0YW4ubWVkaWFjZG4ucnUvY2RuL2RhZ2VzdGFuL3BsYXlsaXN0X2hkaGlnaC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0KDQtdCz0LjQvtC90LDQu9GM0L3Ri9C14oCdLNCU0L7QvSAyNApodHRwOi8vZG9ubWVkaWEuYm9udXMtdHYucnUvY2RuL2Rvbm1lZGlhL3BsYXlsaXN0X2hkaGlnaC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0J3QvtCy0L7RgdGC0LjigJ0s0JXQstGA0L7QvdC+0LLQvtGB0YLQuApodHRwOi8vZXZyb25vdm9zdGkubWVkaWFjZG4ucnUvc3IxL2V2cm9ub3Zvc3RpL3BsYXlsaXN0XzJtLm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QrdGE0LjRgOKAnSzQl9Cy0LXQt9C00LAKaHR0cHM6Ly90dmNoYW5uZWxzdHJlYW0xLnR2enZlemRhLnJ1L2Nkbi90dnp2ZXpkYS9wbGF5bGlzdF9oZGhpZ2gubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCd0L7QstC+0YHRgtC44oCdLNCY0LfQstC10YHRgtC40Y8g0KLQkiBIRApodHRwOi8vaGxzLWlnaS5jZG52aWRlby5ydS9pZ2kvaWdpX2hxL3BsYXlsaXN0Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QmtCw0LfQsNGF0YHRgtCw0L3igJ0s0JrQotCaCmh0dHA6Ly93ei1tYWluLmt0ay5rei9rdGtsaXZlL2xpdmUuaHEvcGxheWxpc3QubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCf0L7Qt9C90LDQstCw0YLQtdC70YzQvdGL0LXigJ0s0JrQsNC70LXQudC00L7RgdC60L7QvyDQotCSCmh0dHA6Ly9zZXJ2MjQudmludGVyYS50djo4MDgxL2thbGVkb3Nrb3Ava2FsZWRvc2tvcC9wbGF5bGlzdC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0J/QvtC30L3QsNCy0LDRgtC10LvRjNC90YvQteKAnSzQmtGA0LDRgdC90LDRjyDQm9C40L3QuNGPINCi0JIKaHR0cDovL2twcmYtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2xpdmUvX2RlZmluc3RfL3N0cmVhbV9oaWdoL3BsYXlsaXN0Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QoNC10LPQuNC+0L3QsNC70YzQvdGL0LXigJ0s0JrRgNCw0YHQvdC+0LTQsNGAINCi0JIKaHR0cDovL2tyYXNub2Rhci5tZWRpYWNkbi5ydS9saXZlL2Nkbi9rcmFzbm9kYXIvcGxheWxpc3QubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCg0LXQs9C40L7QvdCw0LvRjNC90YvQteKAnSzQmtGA0LjQuiDQotCSCmh0dHA6Ly9obHMtcmljdHYuY2RudmlkZW8ucnUvcmljdHYvcmljdHYuc2RwL3BsYXlsaXN0Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QoNC10LPQuNC+0L3QsNC70YzQvdGL0LXigJ0s0JrRgNGL0LwgMjQKaHR0cDovL21yMmxpdmUuMXR2Y3JpbWVhLnJ1OjgwODAvMjR0dmNyaW1lYS5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0KDQtdCz0LjQvtC90LDQu9GM0L3Ri9C14oCdLNCa0YPQsdCw0L3RjCAyNCDQntGA0LHQuNGC0LAKaHR0cHM6Ly9zdHJlYW0ua3ViYW4yNC50djoxNTAwL2hscy9zdHJlYW0ubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCc0YPQt9GL0LrQsNC70YzQvdGL0LXigJ0s0JrRg9GA0LDQuSDQotCSCmh0dHA6Ly9ic3R0di5ib251cy10di5ydS9jZG4va3VyYWkvcGxheWxpc3QubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCg0LXQs9C40L7QvdCw0LvRjNC90YvQteKAnSzQm9C10L3QotCSIDI0Cmh0dHA6Ly9sdm1zMDEuaW5tZWRpcy5ydToxOTM1L3ZpZGVvd2hpc3Blci80N2NoYW5uZWxfbGl2ZV9icm9hZGNhc3Quc3RyZWFtL3BsYXlsaXN0Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QoNC10LPQuNC+0L3QsNC70YzQvdGL0LXigJ0s0JvQuNC/0LXRhtC60L7QtSDQktGA0LXQvNGPCmh0dHA6Ly9zZXJ2MjUudmludGVyYS50djo4MDgxL2xpcHRpbWUvbGlwdGltZS9wbGF5bGlzdC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0JzRg9C30YvQutCw0LvRjNC90YvQteKAnSzQnDEgSEQKaHR0cHM6Ly9saXZlLm0yLnR2L2hsczIvMTA4MC9zdHJlYW0ubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCc0YPQt9GL0LrQsNC70YzQvdGL0LXigJ0s0JwyIEhECmh0dHBzOi8vbGl2ZS5tMi50di9obHMzLzEwODAvc3RyZWFtLm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QoNC10LPQuNC+0L3QsNC70YzQvdGL0LXigJ0s0JzQotCSINCS0L7Qu9Cz0L7Qs9GA0LDQtApodHRwOi8vaGxzLnZvbGdvZ3JhZDF2dHYuY2RudmlkZW8ucnUvdm9sZ29ncmFkMXZ0di92b2xnb2dyYWQxdnR2LnNkcC9wbGF5bGlzdC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0JzRg9C30YvQutCw0LvRjNC90YvQteKAnSzQnNCw0YLRg9GAINCi0JIgSEQKaHR0cDovL3B1YmxpYy5zdHJlYW1pbmcubWF0dXItdHYucnUvaGxzL2gyNjRfYWFjL3N0cmVhbS5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0K3RhNC40YDigJ0s0JzQuNGACmh0dHA6Ly9obHMubWlydHYuY2RudmlkZW8ucnUvbWlydHYtcGFyYW1wdWJsaXNoL21pcnR2XzI1MDAvcGxheWxpc3QubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCd0L7QstC+0YHRgtC44oCdLNCc0LjRgCAyNApodHRwOi8vaGxzLm1pcnR2LmNkbnZpZGVvLnJ1L21pcnR2LXBhcmFtcHVibGlzaC9taXIyNF8yNTAwL3BsYXlsaXN0Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QoNC10LPQuNC+0L3QsNC70YzQvdGL0LXigJ0s0JzQvtGA0LTQvtCy0LjRjyAyNApodHRwOi8vbGl2ZS1tb3Jkb3ZpYTI0LmNkbnZpZGVvLnJ1L21vcmRvdmlhMjQvc3RyZWFtdHIvcGxheWxpc3QubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCt0YTQuNGA4oCdLNCc0L7RgdC60LLQsCAyNApodHRwOi8vcmFkaW8tbGl2ZS1tZy5ydHItdmVzdGkucnUvaGxzL21vc2Nvd18yNC9wbGF5bGlzdF8zLm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3Qn9C+0LfQvdCw0LLQsNGC0LXQu9GM0L3Ri9C14oCdLNCc0L7RjyDQn9C70LDQvdC10YLQsApodHRwOi8vcmFkaW8tbGl2ZS1tZy5ydHItdmVzdGkucnUvbGl2ZS9zbWlsOm1wbGFuLnNtaWwvY2h1bmtsaXN0X2IxNjAwMDAwLm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QnNGD0LfRi9C60LDQu9GM0L3Ri9C14oCdLNCc0YPQt9Ch0L7RjtC3Cmh0dHA6Ly9obHMudHZzb3l1ei5jZG52aWRlby5ydS90dnNveXV6Mi9tdXpzb3l1ei42ZncwLTU4eHAtYWN0cy1lc3kwL2NodW5rbGlzdC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0KDQtdCz0LjQvtC90LDQu9GM0L3Ri9C14oCdLNCd0KLQnCBIRCAo0JzQvtGA0LTQvtCy0LjRjykKaHR0cDovL2xpdmUtbnRtMTMuY2RudmlkZW8ucnUvbnRtMTMvc21pbDpudG0xMy5zbWlsL3BsYXlsaXN0Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QoNC10LPQuNC+0L3QsNC70YzQvdGL0LXigJ0s0J3QotChICjQodC10LLQsNGB0YLQvtC/0L7Qu9GMKQpodHRwOi8vcmFkaW8ubnRzLXR2LmNvbToxMzM4L250cy92aWRlby5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0J/QvtC30L3QsNCy0LDRgtC10LvRjNC90YvQteKAnSzQndCw0LTQtdC20LTQsApodHRwOi8vbGl2ZS10dmhvcGUuY2RudmlkZW8ucnUvdHZob3BlLXB1bGwvdHZob3BlXzEvcGxheWxpc3QubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCf0L7Qt9C90LDQstCw0YLQtdC70YzQvdGL0LXigJ0s0J3QsNC00LjRjwpodHRwOi8vc3RyZWFtLmhvcGUudWEvaG9wZXVhL2xpdmVfMS9wbGF5bGlzdC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0KDQtdCz0LjQvtC90LDQu9GM0L3Ri9C14oCdLNCd0LDRiCDQlNC+0LwgKNCf0LXQvdC30LApCmh0dHA6Ly84NS4yMzQuMzMuNjAvc3RyZWFtL2MxMS5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0KDQtdCz0LjQvtC90LDQu9GM0L3Ri9C14oCdLNCd0LjQutCwIFRWCmh0dHA6Ly9uaWthdHYuY2RudmlkZW8ucnUvbmlrYXR2L25pa2F0di9wbGF5bGlzdC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0JzRg9C30YvQutCw0LvRjNC90YvQteKAnSzQndC+0LLQvtC1INCg0LDQtNC40L4g0KLQkgpodHRwOi8vaGxzLXZpZGVvMDEuY2RudmlkZW8ucnUvdmlkZW8wMS9zbWlsOnZpZGVvMDEuc21pbC9wbGF5bGlzdC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0J/QvtC30L3QsNCy0LDRgtC10LvRjNC90YvQteKAnSzQndC+0LLRi9C5INCc0LjRgApodHRwOi8vc3RyZWFtLnN0dWRpbzM2MC50di9udy9ud181NzZwL3BsYXlsaXN0Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QoNC10LPQuNC+0L3QsNC70YzQvdGL0LXigJ0s0J7QoNCiINCf0LvQsNC90LXRgtCwCmh0dHBzOi8vbGl2ZS1tZWRpYTU2LmNkbnZpZGVvLnJ1L21lZGlhNTYtcHViL29ydG9yZW4vcGxheWxpc3QubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCg0LXQs9C40L7QvdCw0LvRjNC90YvQteKAnSzQntCi0JIgKNCh0LXRgNC/0YPRhdC+0LIpCmh0dHA6Ly9saXZlLW90dm1lZGlhLmNkbnZpZGVvLnJ1L290dm1lZGlhL290dm1lZGlhL3BsYXlsaXN0Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QoNC10LPQuNC+0L3QsNC70YzQvdGL0LXigJ0s0J7QtNC40L3RhtC+0LLQviDQotCSCmh0dHA6Ly8xODUuMTguNC4xNi9saXZlLzNtL3BsYXlsaXN0Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QnNGD0LfRi9C60LDQu9GM0L3Ri9C14oCdLNCf0LXRgNCy0YvQuSDQnNGD0LfRi9C60LDQu9GM0L3Ri9C5IEJZCmh0dHA6Ly9ydG1wLm9uZS5ieToxMjAwCiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0JzRg9C30YvQutCw0LvRjNC90YvQteKAnSzQn9C10YDQstGL0Lkg0JzRg9C30YvQutCw0LvRjNC90YvQuSBSVSBCWQpodHRwOi8vcnRtcC5vbmUuYnk6MjIwMAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCf0L7Qt9C90LDQstCw0YLQtdC70YzQvdGL0LXigJ0s0J/RgNCw0LLQtNCwINCi0KPQoiBIRApodHRwOi8vOTUuNjcuNzcuNTkvaGxzL3ByYXZkYXR5dGt5aXZfdWFfaGkvaW5kZXgubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCg0LXQs9C40L7QvdCw0LvRjNC90YvQteKAnSzQn9GA0L7QtNCy0LjQttC10L3QuNC1Cmh0dHA6Ly9wcm9kdml6aGVuaWUuYm9udXMtdHYucnUvY2RuL3Byb2R2aXpoZW5pZS90cmFja3MtdjFhMS9pbmRleC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0J/QvtC30L3QsNCy0LDRgtC10LvRjNC90YvQteKAnSzQn9GA0L7RgdCy0LXRidC10L3QuNC1Cmh0dHA6Ly9jZG4tMDEuYm9udXMtdHYucnU6ODA4MC9wcm9zdmVzY2hlbmllX2VkZ2UvdHJhY2tzLXYxYTEvaW5kZXgubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCd0L7QstC+0YHRgtC44oCdLNCf0YDRj9C80L7QuQpodHRwOi8vcHJtLWhsczEuY29zbW9ub3ZhLm5ldC51YS9obHMvcHJtX3VhX2hpL2luZGV4Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QndC+0LLQvtGB0YLQuOKAnSzQoNCR0Jog0KLQkgpodHRwOi8vb25saW5lLnZpZGVvLnJiYy5ydS9vbmxpbmUvcmJjdHZfNTc2cC9pbmRleC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0JzRg9C30YvQutCw0LvRjNC90YvQteKAnSzQoNCw0LTQuNC+INCl0LjRgiAo0J7RgNGB0LopCmh0dHA6Ly9oaXRoZC5jYW1zaC5vcnNrLnJ1L2hscy9oaXRoZC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0JzRg9C30YvQutCw0LvRjNC90YvQteKAnSzQoNCw0LTQuNC+INCo0LDQvdGB0L7QvSDQotCSCmh0dHA6Ly9jaGFuc29uLXZpZGVvLmhvc3RpbmdyYWRpby5ydTo4MDgwL2hscy9jaGFuc29uYWJyL2xpdmVfaGlxL2luZGV4Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3Qn9C+0LfQvdCw0LLQsNGC0LXQu9GM0L3Ri9C14oCdLNCg0LDRgtC90LjQuiBIRApodHRwOi8vbGl2ZS1yYXRuaWsuY2RudmlkZW8ucnUvcmF0bmlrL3JhdG5pay5zZHAvcGxheWxpc3QubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCg0LXQs9C40L7QvdCw0LvRjNC90YvQteKAnSzQoNC10LPQuNC+0L0gMjkgKNCQ0YDRhdCw0L3Qs9C10LvRjNGB0LopCmh0dHA6Ly9saXZlLWF0a21lZGlhLmNkbnZpZGVvLnJ1L2F0a21lZGlhL2F0a21lZGlhL3BsYXlsaXN0Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QrdGE0LjRgOKAnSzQoNC10L0g0KLQkgpodHRwOi8vMTA5LjE5NC42Mi4yOTo4MDgwLwojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCt0YTQuNGA4oCdLNCg0L7RgdGB0LjRjyAxIEhECmh0dHA6Ly9jZG4tMDEuYm9udXMtdHYucnU6ODA4MC9ydXNzaWFoZC90cmFja3MtdjFhMS9pbmRleC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0K3RhNC40YDigJ0s0KDQvtGB0YHQuNGPIDI0Cmh0dHA6Ly9jZG5tZy5zZWN1cmUubGl2ZS5ydHItdmVzdGkucnUvaGxzL3J1c3NpYV8yNC9wbGF5bGlzdF8zLm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QrdGE0LjRgOKAnSzQoNC+0YHRgdC40Y8g0JoKaHR0cDovL3JhZGlvLWxpdmUtbWcucnRyLXZlc3RpLnJ1L2hscy9ydXNzaWFfay9wbGF5bGlzdF8zLm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QoNC10LPQuNC+0L3QsNC70YzQvdGL0LXigJ0s0KDRg9GB0YHQutC40Lkg0KHQtdCy0LXRgCAo0JLQvtC70L7Qs9C00LApCmh0dHA6Ly8xODUuMTg2LjE0Mi4xNi9ycy83MjAvcy5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0JHQtdC70LDRgNGD0YHRjOKAnSzQodCi0JIgKNCR0LXQu9Cw0YDRg9GB0YwpCmh0dHA6Ly8yMTIuOTguMTcxLjExNi9ITFMvY3R2YnkvcGxheWxpc3QubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCg0LXQs9C40L7QvdCw0LvRjNC90YvQteKAnSzQodCi0KDQmiBIRCAo0KHQvtGH0LgpCmh0dHA6Ly9zb2NoaS1zdHJrLnJ1OjIwMTUvU1RSSy9tcGVndHMKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QoNC10LPQuNC+0L3QsNC70YzQvdGL0LXigJ0s0KHQsNC70Y/QvCDQotCSCmh0dHA6Ly9ic3R0di5ib251cy10di5ydS9jZG4vc2FseWFtL3BsYXlsaXN0X3NkaGlnaC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0KDQtdCz0LjQvtC90LDQu9GM0L3Ri9C14oCdLNCh0LLQvtC1INCi0JIgKNCh0YLQsNCy0YDQvtC/0L7Qu9GMKQpodHRwOi8vbGl2ZS5zdHYyNC50djo4MDgwL3N2b2V0di9NUV92aWRlby5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0KDQtdCz0LjQvtC90LDQu9GM0L3Ri9C14oCdLNCh0LXQstC10YAg0KLQkgpodHRwOi8vbGl2ZTIubWVkaWFjZG4ucnUvc3IxL3NldmVyL3BsYXlsaXN0Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QlNC10YLRgdC60LjQteKAnSzQodC80LDQudC70LjQuiDQotCSIEhECmh0dHA6Ly82Mi4zMi42Ny4xODc6MTkzNS9XRUJfU21pbGlrL1NtaWxpay5zdHJlYW0vcGxheWxpc3QubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCg0LXQs9C40L7QvdCw0LvRjNC90YvQteKAnSzQodC+0LvQvdC10YfQvdC+0LPQvtGA0YHQutC+0LUg0KLQkgpodHRwOi8vaGxzLnNvbG50di5jZG52aWRlby5ydS9zb2xudHYvc29sbnR2LnNkcC9wbGF5bGlzdC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0KDQtdCz0LjQvtC90LDQu9GM0L3Ri9C14oCdLNCh0L7Rh9C4IDI0IEhECmh0dHA6Ly9zZXJ2MzAudmludGVyYS50djo4MDgxL3NvY2hpL21ha3MyNGhkL3BsYXlsaXN0Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3Qn9C+0LfQvdCw0LLQsNGC0LXQu9GM0L3Ri9C14oCdLNCh0L7RjtC3Cmh0dHA6Ly9obHMtdHZzb3l1ei5jZG52aWRlby5ydS90dnNveXV6L3NveXV6L3BsYXlsaXN0Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QrdGE0LjRgOKAnSzQodC/0LDRgQpodHRwOi8vc3Bhcy5tZWRpYWNkbi5ydS9jZG4vc3Bhcy90cmFja3MtdjFhMS9tb25vLm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QoNC10LPQuNC+0L3QsNC70YzQvdGL0LXigJ0s0KHRg9GA0LPRg9GCIDEKaHR0cHM6Ly9zaXR2LnJ1L2hscy9zdHYubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCg0LXQs9C40L7QvdCw0LvRjNC90YvQteKAnSzQodGD0YDQs9GD0YIgMjQKaHR0cDovL3ZpZGVvMS5pbi1uZXdzLnJ1L2MyNC9pbmRleC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0KDQtdCz0LjQvtC90LDQu9GM0L3Ri9C14oCdLNCi0JLQoCAyNApodHRwOi8vbGl2ZS10dnIyNC5jZG52aWRlby5ydS90dnIyNC90dnIyNC5zZHAvcGxheWxpc3QubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCt0YTQuNGA4oCdLNCi0JLQpgpodHRwOi8vdHZjLWhscy5jZG52aWRlby5ydS90dmMtcmVzL3NtaWw6dmQ5MjIxXzIuc21pbC9jaHVua2xpc3RfYjE3MDMwMDAubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCf0L7Qt9C90LDQstCw0YLQtdC70YzQvdGL0LXigJ0s0KLQndCSINCf0LvQsNC90LXRgtCwCmh0dHA6Ly90bnYuYm9udXMtdHYucnUvY2RuL3RudnBsYW5ldC90cmFja3MtdjFhMS9tb25vLm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QrdGE0LjRgOKAnSzQotCd0KIKaHR0cDovL2Nkbi0wMS5ib251cy10di5ydS90bnRvdHQvdHJhY2tzLXYxYTEvbW9uby5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0JzRg9C30YvQutCw0LvRjNC90YvQteKAnSzQotCd0KIgTXVzaWMKaHR0cDovL2Nkbi0wMS5ib251cy10di5ydTo4MDgwL3RudG11c2ljL3RyYWNrcy12MWExL2luZGV4Lm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QoNC10LPQuNC+0L3QsNC70YzQvdGL0LXigJ0s0KLQoNCaINCV0LLRgNCw0LfQuNGPICjQntGA0YHQuikKaHR0cDovL2luZm9jaGhkY2RuLnRya2V1cmFzaWEucnUvb3Jzay1pbmZvY2hoZC9pbmZvY2hoZC9wbGF5bGlzdC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0KDQtdCz0LjQvtC90LDQu9GM0L3Ri9C14oCdLNCi0LDRgtCw0YDRgdGC0LDQvSAyNApodHRwOi8vc3RyZWFtLmVmaXIyNC50djoxOTM1L2xpdmUvZWZpcjI0dHYvcGxheWxpc3QubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCg0LXQs9C40L7QvdCw0LvRjNC90YvQteKAnSzQotC40LLQuNC60L7QvCAo0KPQu9Cw0L0t0KPQtNGNKQpodHRwOi8vdHZjb20uc3RyZWFtLmludGVsZW1hLnJ1L3R2Y29tL3N0dWRpby90cmFja3MtdjFhMS9pbmRleC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0KDQtdCz0LjQvtC90LDQu9GM0L3Ri9C14oCdLNCi0LjRgSDQotCSICjQntC00LXRgdGB0LApCmh0dHA6Ly9jZG4xMC5saXZlLXR2Lm9kLnVhOjgwODEvcmlvb2QvdGlzb2Q3MjAvcGxheWxpc3QubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCg0LXQs9C40L7QvdCw0LvRjNC90YvQteKAnSzQotC+0LvRjNGP0YLRgtC4IDI0Cmh0dHA6Ly85MS4yMzQuMTA4LjI2L2hscy1saXZlL2xpdmVwa2dyL19kZWZpbnN0Xy9saXZlZXZlbnQxL3ZhemxpdmVzdHJlYW0xLm0zdTgKI0VYVElORjotMSBncm91cC10aXRsZT3igJ3QoNC10LPQuNC+0L3QsNC70YzQvdGL0LXigJ0s0KLRjtC80LXQvdGB0LrQvtC1INCS0YDQtdC80Y8KaHR0cDovL2hscy1zaWJpbmZvcm1idXJvLmNkbnZpZGVvLnJ1L3NpYmluZm9ybWJ1cm8vc2liaW5mb3JtYnVyby5zZHAvcGxheWxpc3QubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCc0YPQt9GL0LrQsNC70YzQvdGL0LXigJ0s0KjQsNC90YHQvtC9INCi0JIKaHR0cDovL2hscy5zaGFuc29udHYuY2RudmlkZW8ucnUvc2hhbnNvbnR2L3NoYW5zb250dl9ocS5zZHAvcGxheWxpc3QubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCU0LXRgtGB0LrQuNC14oCdLNCo0LDRj9C9INCi0JIgSEQKaHR0cDovL3NoYXlhbi5ib251cy10di5ydTo4MC9jZG4vc2hheWFuL3RyYWNrcy12MWExL21vbm8ubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCg0LXQs9C40L7QvdCw0LvRjNC90YvQteKAnSzQrdGE0LjRgCDQotCSICjQmtCw0LfQsNC90YwpCmh0dHA6Ly9zdHJlYW0uZWZpcjI0LnR2OjE5MzUvbGl2ZS9lZmlya2F6YW4vcGxheWxpc3QubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCg0LXQs9C40L7QvdCw0LvRjNC90YvQteKAnSzQrdGF0L4g0KLQkgpodHRwOi8vbGl2ZS1lY2hvdHYuY2RudmlkZW8ucnUvZWNob3R2L2VjaG90di5zZHAvcGxheWxpc3QubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCg0LXQs9C40L7QvdCw0LvRjNC90YvQteKAnSzQrtCz0YDQsCDQotCSCmh0dHA6Ly9saXZlLnVncmF0di5jZG52aWRlby5ydS91Z3JhdHYvc21pbDp1Z3Jhc3RyZWFtMS5zbWlsL2NodW5rbGlzdF9iNzE5MjAwMC5tM3U4CiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU94oCd0KDQtdCz0LjQvtC90LDQu9GM0L3Ri9C14oCdLNCu0YDQs9Cw0L0g0KLQkiBIRApodHRwOi8veXVyZ2FuLmJvbnVzLXR2LnJ1L2Nkbi95dXJnYW4vdHJhY2tzLXYxYTEvaW5kZXgubTN1OAojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPeKAndCg0LXQs9C40L7QvdCw0LvRjNC90YvQteKAnSzQr9C80LDQuy3QoNC10LPQuNC+0L0KaHR0cHM6Ly9saXZlLXlhbWFscmVnaW9uLmNkbnZpZGVvLnJ1L3lhbWFscmVnaW9uX21jL3lhbWFscmVnaW9uX21jL3BsYXlsaXN0Lm0zdTg=</source>
+        <comment>Плейлист со статическими источниками, разбиты по категориям (в разработке)</comment>
+        <date>29.01.2021</date>
+        <group>RU, UA, Статические, New</group>
+    </playlist>
+
+    <playlist>
+      <date>24.09.2020</date>
+      <name>OdessaTV @ webmaster.pp.ua</name>
+      <url>https://webmaster.pp.ua/u/odessa_tv.m3u</url>
+      <comment>OdessaTV @ webmaster.pp.ua</comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые</group>
+    </playlist>
+    
+    <playlist>
+      <date>24.09.2020</date>
+      <name>Dagestan @ webmaster.pp.ua</name>
+      <url>https://webmaster.pp.ua/u/dagestan.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>24.09.2020</date>
+      <name>Iptv Forever</name>
+      <url>http://nserv.host:5300/iptvforever.m3u8</url>
+      <comment>Iptv Forever</comment>
+      <update_hours>24</update_hours>
+      <group>RU, UA, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>24.09.2020</date>
+      <name>Tvaua</name>
+      <url>http://nserv.host:5300/tvaua.m3u8</url>
+      <comment>Tvaua</comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>24.09.2020</date>
+      <name>Denys Club</name>
+      <url>http://nserv.host:5300/denysclub.m3u8</url>
+      <comment>Denys Club</comment>
+      <update_hours>24</update_hours>
+      <group>FILMS, RU, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>24.09.2020</date>
+      <name>Ittv</name>
+      <url>http://ittv.cc.ua/playlist/ittv.cc.ua.m3u</url>
+      <comment>Ittv</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>19.07.2020</date>
+      <name>Korol</name>
+      <url>https://korol.do.am/tv.m3u</url>
+      <comment>Korol</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>19.07.2020</date>
+      <name>Films @ Iptvmaster</name>
+      <url>https://iptvmaster.ru/films-Karnei4.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>FILMS, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>19.07.2020</date>
+      <name>RU @ Iptvmaster</name>
+      <url>https://iptvmaster.ru/russia.m3u</url>
+      <comment>RU @ Iptvmaster</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>19.07.2020</date>
+      <name>UA @ Iptvmaster</name>
+      <url>https://iptvmaster.ru/ukraine.m3u</url>
+      <comment>UA @ Iptvmaster</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>19.07.2020</date>
+      <name>Kids @ Iptvmaster</name>
+      <url>https://iptvmaster.ru/kids-all.m3u</url>
+      <comment>Kids @ Iptvmaster</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>19.07.2020</date>
+      <name>Webmaster.pp.ua</name>
+      <url>https://webmaster.pp.ua/u/pwr.m3u</url>
+      <comment>Webmaster.pp.ua</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые</group>
+    </playlist>
+
+    <playlist>
+      <date>19.07.2020</date>
+      <name>211 @ Webmaster.pp.ua</name>
+      <url>https://webmaster.pp.ua/u/211_2020.m3u</url>
+      <comment>211 @ Webmaster.pp.ua</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые</group>
+    </playlist>
+    
+    <playlist>
+      <date>03.06.2020</date>
+      <name>Tva.in.ua</name>
+      <url>https://tva.in.ua/iptv/iptv_ukr.m3u</url>
+      <comment>Tva.in.ua</comment>
+      <update_hours>24</update_hours>
+      <group>UA, Обновляемый</group>
+    </playlist>
+    
+    <playlist>
+      <date>05.04.2020</date>
+      <name>Ktkru</name>
+      <url>http://iptv.ktkru.ru/playlist.m3u</url>
+      <comment>Ktkru</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+      <date>18.01.2020</date>
+      <name>UA Linux</name>
+      <url>http://iptv.ualinux.com/m3u/iptv_ualinux_mega.m3u</url>
+      <comment>UA Linux</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+      <date>01.01.2020</date>
+      <name>XXX @ Smarttvnews</name>
+      <url>http://smarttvnews.ru/apps/xxx.m3u</url>
+      <comment>XXX @ Smarttvnews</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+      <date>01.01.2020</date>
+      <name>Donwhm @ Webhalpme</name>
+      <url>https://webhalpme.ru/donwhm.m3u</url>
+      <comment>Donwhm @ Webhalpme</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+      <date>01.01.2020</date>
+      <name>Kids @ Webhalpme</name>
+      <url>https://webhalpme.ru/kids.m3u</url>
+      <comment>Kids @ Webhalpme</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+      <date>01.01.2020</date>
+      <name>Iptvfreefull @ Smarttvnews</name>
+      <url>https://smarttvnews.ru/apps/iptvfreefull.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+      <date>05.04.2020</date>
+      <name>Iptvm3u</name>
+      <url>http://iptvm3u.ru/onelist.m3u</url>
+      <comment>Iptvm3u</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+      <date>01.01.2020</date>
+      <name>Webarmen</name>
+      <url>https://webarmen.com/my/iptv/auto.nogrp.m3u</url>
+      <comment>Webarmen</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+      <date>05.04.2020</date>
+      <name>HD @ Iptvm3u.ru</name>
+      <url>http://iptvm3u.ru/hdlist.m3u</url>
+      <comment>HD @ Iptvm3u.ru</comment>
+      <update_hours>24</update_hours>
+      <group>RU, World, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+      <date>06.08.2019</date>
+      <name>Tavrida Telecom</name>
+      <url>http://tavrida-telecom.ru/iptv.m3u</url>
+      <comment>Tavrida Telecom</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+      <date>06.08.2019</date>
+      <name>Rus @ Avdmono</name>
+      <url>https://avdmono.do.am/iptv/Rus.m3u8</url>
+      <comment>Rus @ Avdmono</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Обновляемый</group>
+    </playlist>
+    
+    <playlist>
+      <date>03.06.2020</date>
+      <name>Russia Iptv</name>
+      <url>https://iptvm3u.ru/listru.m3u</url>
+      <comment>Russia Iptv</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Обновляемый</group>
+    </playlist>
+    
+    <playlist>
+      <date>04.05.2019</date>
+      <name>Rus @ avdmono</name>
+      <url>https://avdmono.do.am/iptv/Rus.m3u8</url>
+      <comment>Rus @ avdmono</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+      <date>13.04.2017</date>
+      <name>Ettytv</name>
+      <url>http://ettytv.com/playlist/odessa_tv.m3u</url>
+      <comment>[UA] Ettytv</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+      <date>13.04.2017</date>
+      <name>Arm-Avd</name>
+      <url>https://avdmono.do.am/iptv/Arm-Avd.m3u8</url>
+      <comment>[AM] Arm-Avd</comment>
+      <update_hours>24</update_hours>
+      <group>AM, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+      <name>Iptvm3u</name>
+      <url>http://iptvm3u.ru/one.m3u</url>
+      <comment>Iptvm3u</comment>
+      <date>29.03.2019</date>
+      <update_hours>24</update_hours>
+      <group>RU, Обновляемый</group>
+    </playlist>
+    
+    <playlist>
+      <name>Gorod.tv</name>
+      <url>http://gorod.tv/iptv.m3u</url>
+      <comment>Gorod.tv</comment>
+      <date>29.03.2019</date>
+      <update_hours>24</update_hours>
+      <group>RU, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+      <name>Kareniptv</name>
+      <url>http://kareniptv.eu/karen.m3u</url>
+      <comment>Kareniptv</comment>
+      <date>13.03.2019</date>
+      <update_hours>24</update_hours>
+      <group>RU, AM, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+      <name>XXX @ webarmen.com</name>
+      <url>https://webarmen.com/my/iptv/auto.xxx.m3u</url>
+      <comment>XXX @ webarmen.com</comment>
+      <date>03.03.2019</date>
+      <update_hours>24</update_hours>
+      <group>Adult, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+      <name>XXX @ Iptv-m3u.ru</name>
+      <url>http://iptv-m3u.ru/auto.xxx.m3u</url>
+      <comment>XXX @ Iptv-m3u.ru</comment>
+      <date>08.02.2019</date>
+      <update_hours>24</update_hours>
+      <group>RU, UA, Adult, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+      <name>Kids @ Iptv-m3u.ru</name>
+      <url>http://iptv-m3u.ru/auto.kids.m3u</url>
+      <comment>Kids @ Iptv-m3u.ru</comment>
+      <date>08.02.2019</date>
+      <update_hours>24</update_hours>
+      <group>RU, UA, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+      <name>Iptv-m3u.ru</name>
+      <url>http://iptv-m3u.ru/iptvfull.m3u</url>
+      <comment>Полный лист @ Iptv-m3u.ru</comment>
+      <date>08.02.2019</date>
+      <update_hours>24</update_hours>
+      <group>RU, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+      <name>220 podkola</name>
+      <url>http://tele.usite.pro/iptv/220_podkola.net.m3u</url>
+      <comment>[RU] 220 podkola</comment>
+      <date>13.01.2019</date>
+      <update_hours>24</update_hours>
+      <group>RU, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+      <name>Ekzot</name>
+      <url>https://ekzo.ucoz.net/m3u/muzykalnye.m3u</url>
+      <comment>[RU] Ekzot</comment>
+      <date>31.12.2018</date>
+      <update_hours>24</update_hours>
+      <group>RU, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+      <name>Victorch4</name>
+      <url>http://victorch4.do.am/rtmp.m3u</url>
+      <comment>Victorch4</comment>
+      <date>13.01.2019</date>
+      <update_hours>24</update_hours>
+      <group>RU, Обновляемый</group>
+    </playlist>
+  
+    <playlist>
+      <name>Playlist1 @ divantv.ru</name>
+      <url>http://divantv.zz.mu/Playlist001.m3u</url>
+      <comment>[FILMS] Playlist1 @ divantv.ru</comment>
+      <date>28.12.2018</date>
+      <update_hours>0</update_hours>
+      <group>RU, Обновляемый, Films</group>
+    </playlist>
+
+    <playlist>
+      <name>Playlist2 @ divantv.ru</name>
+      <url>http://divantv.zz.mu/Playlist002.m3u</url>
+      <comment>[FILMS] Playlist1 @ divantv.ru</comment>
+      <date>28.12.2018</date>
+      <update_hours>0</update_hours>
+      <group>RU, Обновляемый, Films</group>
+    </playlist>
+
+    <playlist>
+      <name>Playlist3 @ divantv.ru</name>
+      <url>http://divantv.zz.mu/Playlist003.m3u</url>
+      <comment>[FILMS] Playlist1 @ divantv.ru</comment>
+      <date>28.12.2018</date>
+      <update_hours>0</update_hours>
+      <group>RU, Обновляемый, Films</group>
+    </playlist>
+
+    <playlist>
+      <name>Playlist4 @ divantv.ru</name>
+      <url>http://divantv.zz.mu/Playlist004.m3u</url>
+      <comment>[FILMS] Playlist1 @ divantv.ru</comment>
+      <date>28.12.2018</date>
+      <update_hours>0</update_hours>
+      <group>RU, Обновляемый, Films</group>
+    </playlist>
+
+    <playlist>
+      <name>Iptvfull @ Smarttvapp.ru</name>
+      <url>http://smarttvapp.ru/app/iptvfull.m3u</url>
+      <comment>Iptvfull @ Smarttvapp.ru</comment>
+      <date>19.12.2018</date>
+      <update_hours>24</update_hours>
+      <group>RU, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+        <name>LazyPlaylist (ver 1.48)</name>
+        <url>http://bit.ly/lazyiptvplaylist</url>
+        <comment>Плейлист со статическими источниками, разбиты по категориям (в разработке)</comment>
+        <date>24.09.2020</date>
+        <group>RU, UA, Статические, New</group>
+    </playlist>
+
+    <playlist>
+      <name>Iptv Forever</name>
+      <url>https://iptvm3u.ru/list.m3u</url>
+      <comment>[RU]Iptv Forever</comment>
+      <date>03.06.2020</date>
+      <update_hours>24</update_hours>
+      <group>RU, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+      <name>UA @ Podkola.net</name>
+      <url>http://tele.usite.pro/iptv/ukraina-podkola.net.m3u</url>
+      <comment>[UA] UA @ Podkola.net</comment>
+      <date>22.05.2018</date>
+      <update_hours>24</update_hours>
+      <group>RU, Обновляемый</group>
+    </playlist>
+  
+    <playlist>
+      <name>Дискография</name>
+      <url>http://sascha.ucoz.net/plst/radio/radio_po_ispolniteljam.m3u</url>
+      <comment>Список актуальных радио</comment>
+      <date>24.02.2018</date>
+      <radio>true</radio>
+      <group>Радио</group>
+    </playlist>
+ 
+    <playlist>
+      <name>SmartTvNews.ru</name>
+      <url>http://smarttvnews.ru/apps/iptvchannels.m3u</url>
+      <comment>Плейлист SmartTvNews.ru</comment>
+      <date>19.01.2018</date>
+      <update_hours>24</update_hours>
+      <group>RU, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+      <name>Free Blue Crabs TV</name>
+      <url>http://iptv-2020.do.am/Free.m3u</url>
+      <comment>[RU][UA] Бесплатный плейлист от Blue Crabs TV</comment>
+      <date>18.01.2020</date>
+      <update_hours>24</update_hours>
+      <group>RU, UA</group>
+    </playlist>
+
+    <playlist>
+      <name>Rubintele</name>
+      <url>http://iptv.rubintele.com:8552/playlist.m3u8</url>   
+      <comment>[UA] плейлист rubintele.com</comment>
+      <date>09.02.2017</date>
+      <update_hours>24</update_hours>
+      <group>UA, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+        <name>Auto Iptv</name>
+        <url>http://getsapp.ru/IPTV/Auto_IPTV.m3u</url>             
+        <comment>[RU][UA][WORLD] Обновляемый лист с сайта getsapp.ru</comment>
+        <date>25.12.2016</date>
+        <update_hours>24</update_hours>
+        <group>RU, UA, World, Обновляемый</group>
+    </playlist>
+  
+    <playlist>
+      <name>Siptv.eu(example)</name>
+      <url>http://siptv.eu/lists/example.m3u</url>
+      <comment>[RU,WORLD] Тестовый плейлист siptv.eu</comment>
+      <date>06.11.2015</date>
+      <update_hours>24</update_hours>
+      <group>RU, World, Обновляемый</group>
+    </playlist>
+  
+    <playlist>
+      <name>Украинское радио</name>
+      <url>http://sascha.ucoz.net/plst/radio/radio_ukrainy.m3u</url>
+      <comment>[UA]Плейлист с украинскими радиостанциями</comment>
+      <date>31.10.2015</date>
+      <radio>true</radio>
+      <group>UA, Радио, Обновляемый</group>
+    </playlist>
+
+    <playlist>
+      <name>Kinodrom @ SlyNet</name>
+      <url>http://topplay.do.am/KinodromTopPlay.m3u</url>   
+      <comment>[FILMS] Сборник фильмов от команды SlyNet</comment>
+      <date>03.06.2020</date>
+      <group>FILMS</group>
+    </playlist>
+
+    <playlist>
+      <name>RadioSlyNet</name>
+      <url>http://topplay.do.am/RadioTopPlay.m3u</url>
+      <comment>Обновляемый плейлист лучших радиостанций от SlyNet IPTV</comment>
+      <date>03.06.2020</date>
+      <radio>true</radio>
+      <group>Радио, Статические</group>
+    </playlist>
+  
+    <playlist>
+      <name>3G SlyNet</name>
+      <url>http://topplay.do.am/3gTopPlay.m3u</url>            
+      <comment>[RU] 3G Low Quality for mobile from SlyNet IPTV</comment>
+      <date>03.06.2020</date>
+      <update_hours>24</update_hours>
+      <group>RU, Обновляемый</group>
+    </playlist>
+  
+    <playlist>
+      <name>AdultsSlyNet(18+)</name>
+      <url>http://topplay.do.am/AdultsTopPlay.m3u</url>
+      <comment>SlyNet IPTV adult playlist. Warning 18+!</comment>
+      <date>03.06.2020</date>
+      <group>International, Adult</group>
+    </playlist>      
+                       
+    <playlist>
+      <name>Free Best TV</name>
+      <url>http://topplay.do.am/FreeBestTV.m3u</url>
+      <comment>[UA][RU] Ассорти RU, UA каналов от SlyNet IPTV</comment>
+      <date>03.06.2020</date>
+      <update_hours>24</update_hours>
+      <group>RU, UA, Обновляемый</group>
+    </playlist>
+  
+    <playlist>
+      <name>Веб-камеры Мира</name>
+      <url>http://topplay.do.am/FreeWebCamsWorld.m3u</url>
+      <comment>[WEBCAM] Веб-камеры Мира и России от SlyNet IPTV</comment>
+      <date>03.06.2020</date>
+      <group>Вебкамеры, Статические</group>
+    </playlist>
+  
+    <playlist>
+      <name>Free World TV</name>
+      <url>http://topplay.do.am/FreeWorldTV.m3u</url>
+      <comment>[WORLD] Ассорти зарубежных каналов от SlyNet IPTV</comment>
+      <date>03.06.2020</date>
+      <update_hours>24</update_hours>
+      <group>WORLD, Обновляемый</group>
+    </playlist>
+      
+  </playlists>
+  
+  <epgs>
+  
+    <epg>
+      <date>05.09.2017</date>
+      <name>Programtv.ru</name>
+      <url>http://programtv.ru/xmltv.xml.gz</url>
+      <comment>Lang: RU, Size: ~800kb, 3 days, 500+ каналов. Содержит описания передач.</comment>
+      <group>Xmltv,Icons,exUSSR</group>
+    </epg>
+
+    <epg>
+      <date>07.09.2017</date>
+      <name>EPG for Edem</name>
+      <url>http://epg.it999.ru/edem.xml.gz</url>
+      <comment>Lang: RU, Size: ~10Mb, 6 days, 1200+ каналов. Содержит описания передач.</comment>
+      <group>Xmltv,Icons,exUSSR</group>
+    </epg>
+
+    <epg>
+      <date>01.02.2017</date>
+      <name>K210.org</name>
+      <url>http://tv.k210.org/xmltv.xml.gz</url>
+      <comment>Lang: RU, Size: ~3Mb, 9 days, 250+ каналов. Содержит описания передач.</comment>
+      <group>Xmltv,Icons,exUssr</group>
+    </epg>
+
+    <epg>
+      <date>05.04.2016</date>
+      <name>Teleguide (Xmltv)</name>
+      <url>http://www.teleguide.info/download/new3/xmltv.xml.gz</url>
+      <comment>Country: ExUSSR, Lang: RU, Size: ~4Mb, 9 days, 700+ каналов. Содержит описания передач.</comment>
+      <group>Xmltv,Icons,exUssr,World</group>
+    </epg>
+        
+    <epg>
+      <date>20.06.2019</date>
+      <name>Ott Epg</name>
+      <url>https://ottepg.ru/ottepg.xml.gz</url>
+      <comment>Lang: RU, Size: ~3Mb, 14 days, 300+ каналов. Содержит описания передач.</comment>
+      <group>Xmltv,Icons,exUSSR</group>
+    </epg> 
+
+    <epg>
+      <date>07.07.2020</date>
+      <name>Glanz Epg</name>
+      <url>http://ottg.tv/epg.xml.gz</url>
+      <comment>Lang: RU, Size: ~7Mb,  7 days, 1500+ каналов. Содержит описания передач.</comment>
+      <group>Xmltv,Icons,exUssr,World</group>
+    </epg>
+    
+    <epg>
+      <date>07.07.2020</date>
+      <name>Megane Epg</name>
+      <url>http://georgemikl.ucoz.ru/epg/xmltv.xml.gz</url>
+      <comment>Lang: RU, Size: ~10Mb, 7 days, 900+ каналов. Содержит описания передач.</comment>
+      <group>Xmltv,exUSSR,World</group>
+    </epg>
+    
+    <epg>
+      <date>07.07.2020</date>
+      <name>Iptvx Lite Epg</name>
+      <url>https://iptvx.one/EPG_LITE</url>
+      <comment>Lang: RU, Size: ~5Mb, 7 days, 1500+ каналов. </comment>
+      <group>Xmltv,Icons,exUssr,World</group>
+    </epg>
+    
+    <epg>
+      <date>07.07.2020</date>
+      <name>Iptvx Epg</name>
+      <url>https://iptvx.one/EPG</url>
+      <comment>Lang: RU, Size: ~8Mb, 7 days, 1500+ каналов. Содержит описания передач.</comment>
+      <group>Xmltv,Icons,exUssr,World</group>
+    </epg>
+    
+    <epg>
+      <date>07.07.2020</date>
+      <name>Voka Epg</name>
+      <url>http://bit.ly/voc-tv</url>
+      <comment>Lang: RU, Size: ~20Mb, 7 days, 1500+ каналов. Содержит описания передач.</comment>
+      <group>Xmltv,exUssr,World</group>
+    </epg>
+
+    <epg>
+      <date>07.07.2020</date>
+      <name>Tvfor.pro Epg</name>
+      <url>http://epg.tvfor.pro/epgtv.xml.gz</url>
+      <comment>Lang: RU, Size: ~15Mb, 7 days, 600+ каналов. Содержит описания передач.</comment>
+      <group>Xmltv,Icons,exUSSR,DE,World</group>
+    </epg>
+    
+    <epg>
+      <date>07.07.2020</date>
+      <name>Ottepg</name>
+      <url>https://1ottepg.my1.ru/xmltv.xml.gz</url>
+      <comment>Lang: RU, Size: ~12Mb, 8 days. Содержит описания передач.</comment>
+      <group>Xmltv,exUSSR,World</group>
+    </epg>
+    
+    <epg>
+      <date>07.07.2020</date>
+      <name>Cbilling Epg</name>
+      <url>http://epg.iptvx.tv/xmltv.xml.gz</url>
+      <comment>Lang: RU, Size: ~10Mb, 12 days, 600+ каналов. Содержит описания передач.</comment>
+      <group>Xmltv,Icons,exUSSR,World</group>
+    </epg>
+    
+    <epg>
+      <date>07.07.2020</date>
+      <name>GreatIPTV Epg</name>
+      <url>http://epg.greatiptv.cc/iptv.xml.gz</url>
+      <comment>Lang: RU, Size: ~9Mb, 8 days, 1000+ каналов. Содержит описания передач.</comment>
+      <group>Xmltv,exUssr,World</group>
+    </epg>
+    
+    <epg>
+      <date>07.07.2020</date>
+      <name>Dortmundez Epg</name>
+      <url>http://dortmundez.ucoz.net/epg/epg.xml.gz</url>
+      <comment>Lang: RU, Size: ~7Mb, 8 days, 900+ каналов. Содержит описания передач.</comment>
+      <group>Xmltv,exUssr,World</group>
+    </epg>
+ 
+    <epg>
+      <date>07.07.2020</date>
+      <name>Zuram Epg</name>
+      <url>http://epg.zuram.net/xmltv.xml.gz</url>
+      <comment>Lang: RU, Size: ~1Mb, 3 days, 1100+ каналов. Содержит описания передач.</comment>
+      <group>Xmltv,exUSSR,MD,RO</group>
+    </epg>   
+    
+  </epgs>
+</wizard>
