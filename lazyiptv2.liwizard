@@ -1,22 +1,201 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wizard>
   <info>
-    <version>версия 2.009, 19.09.2021</version>
+    <version>версия 2.010, 20.12.2021</version>
     <name>LazyIPTV Deluxe Wizard</name>
     <comment>Wizard-файл для android-приложения LazyIPTV</comment>
-    <android_url>https://play.google.com/store/apps/details?id=com.lazycatsoftware.iptv</android_url>
     <warning>Весь контент, представленный в этом файле взят из открытых источников!</warning>
   </info>
 
   <playlists>
 
     <playlist>
+      <date>30.12.2021</date>
+      <name>Smartoteka @ 3dn</name>
+      <url>http://codwar.3dn.ru/playlist/smartoteka.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, UA, World, Автообновляемые, New</group>
+    </playlist>
+    
+    <playlist>
+      <date>30.12.2021</date>
+      <name>Az @ samigiptv</name>
+      <url>http://samigiptv.ucoz.net/Azerb2121.txt</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>AZ, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.12.2021</date>
+      <name>UA @ samigiptv</name>
+      <url>http://samigiptv.ucoz.net/ukraine.txt</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.12.2021</date>
+      <name>UA2 @ samigiptv</name>
+      <url>http://samigiptv.ucoz.net/ukraine.txt</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.12.2021</date>
+      <name>Stream @ samigiptv</name>
+      <url>http://samigiptv.ucoz.net/Stream2121.txt</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.12.2021</date>
+      <name>Iptv @ samigiptv</name>
+      <url>http://samigiptv.ucoz.net/iptvfull2121.txt</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Music, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.12.2021</date>
+      <name>TBmir</name>
+      <url>https://raw.githubusercontent.com/jura00/mytest.m3u/master/TBmir.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+    
+    <playlist>
+      <date>30.12.2021</date>
+      <name>Eralash</name>
+      <url>http://vekart.ucoz.net/v/Eralash.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>Films, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.12.2021</date>
+      <name>Films @ samigiptv</name>
+      <url>http://samigiptv.ucoz.net/ottfilms.m3u8</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>Films, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.12.2021</date>
+      <name>Films2 @ samigiptv</name>
+      <url>http://samigiptv.ucoz.net/film1800.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.12.2021</date>
+      <name>Sport @ samigiptv</name>
+      <url>http://samigiptv.ucoz.net/sport.txt</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>Sport, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.12.2021</date>
+      <name>Riopretodigital</name>
+      <url>http://riopretodigital.com.br/iptv/18.txt</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>Adult, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.12.2021</date>
+      <name>Radio & Cams</name>
+      <url>https://webmaster.pp.ua/u/tvradiocam.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>Radio, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.12.2021</date>
+      <name>Test.telek.me</name>
+      <url>http://test.telek.me:2022/iptv.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.12.2021</date>
+      <name>Films HD @ androidtvnews</name>
+      <url>https://androidtvnews.ru/apps/filmhd.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>Films, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.12.2021</date>
+      <name>Sport @ androidtvnews</name>
+      <url>https://androidtvnews.ru/apps/sport.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>Sport, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.12.2021</date>
+      <name>Iptv @ androidtvnews</name>
+      <url>https://androidtvnews.ru/apps/iptvfree.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.12.2021</date>
+      <name>Smtk @ gavrilovka</name>
+      <url>http://gavrilovka.net/pl/smtk.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, UA, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.12.2021</date>
+      <name>RU Gavrilovka</name>
+      <url>http://gavrilovka.net/pl/hub.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>30.12.2021</date>
+      <name>Smtk @ besttvportal</name>
+      <url>https://besttvportal.ucoz.net/m3u/smtk.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+                        
+    <playlist>
       <date>12.10.2021</date>
       <name>Iptv @ kinolivi</name>
       <url>https://kinolivi.net.ru/IPTV.m3u</url>
       <comment>Iptv @ kinolivi</comment>
       <update_hours>24</update_hours>
-      <group>RU, UA, WORLD, Автообновляемые, New</group>
+      <group>RU, UA, WORLD, Автообновляемые</group>
     </playlist>
     
     <playlist>
@@ -25,7 +204,7 @@
       <url>https://kinolivi.net.ru/Russian.m3u </url>
       <comment>Ru @ kinolivi</comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -34,7 +213,7 @@
       <url>https://kino-shou.ru/IPTV.m3u</url>
       <comment>Kino-shou.ru</comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -43,7 +222,7 @@
       <url>https://myplaylists.github.io/iptv/ua.m3u</url>
       <comment>Ru @ myplaylists</comment>
       <update_hours>24</update_hours>
-      <group>UA, Автообновляемые, New</group>
+      <group>UA, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -52,7 +231,7 @@
       <url>https://smarttvnews.ru/apps/music.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>RU, UA, Автообновляемые, New</group>
+      <group>RU, UA, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -61,7 +240,7 @@
       <url>http://stream-norst.cf/tvoetv.m3u8</url>
       <comment>Tvoetv</comment>
       <update_hours>24</update_hours>
-      <group>RU, UA, Автообновляемые, New</group>
+      <group>RU, UA, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -70,7 +249,7 @@
       <url>https://mater.com.ua/ip/ua.m3u</url>
       <comment>UA @ mater.com.ua</comment>
       <update_hours>24</update_hours>
-      <group>UA, Автообновляемые, New</group>
+      <group>UA, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -78,24 +257,6 @@
       <name>Iptv S @ mater.com.ua</name>
       <url>https://mater.com.ua/ip/iptv-s-2021.m3u</url>
       <comment>Iptv S @ mater.com.ua</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>19.09.2021</date>
-      <name>IpTV live</name>
-      <url>https://livemaralik.do.am/ipTV-live.m3u</url>
-      <comment>IpTV live</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>19.09.2021</date>
-      <name>Short @ absidev.com</name>
-      <url>https://short.absidev.com/v.m3u</url>
-      <comment>Short @ absidev.com</comment>
       <update_hours>24</update_hours>
       <group>RU, Автообновляемые</group>
     </playlist>
@@ -327,15 +488,6 @@
 
     <playlist>
       <date>29.01.2021</date>
-      <name>Iptv-m3u.xyz</name>
-      <url>http://iptv-m3u.xyz/list/iptv-playlist.m3u</url>
-      <comment>Iptv-m3u.xyz</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>29.01.2021</date>
       <name>Mediateka @ Bluecrabstv</name>
       <url>http://bluecrabstv.do.am/mediateka.m3u</url>
       <comment>Mediateka @ Bluecrabstv</comment>
@@ -343,24 +495,6 @@
       <group>FILMS, Автообновляемые</group>
     </playlist>
 
-    <playlist>
-      <date>29.01.2021</date>
-      <name>Music @ iptv-m3u.xyz</name>
-      <url>http://iptv-m3u.xyz/list/music.m3u</url>
-      <comment>Music @ iptv-m3u.xyz</comment>
-      <update_hours>24</update_hours>
-      <group>MUSIC, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>29.01.2021</date>
-      <name>Films @ iptv-m3u.xyz</name>
-      <url>http://iptv-m3u.xyz/list/cinematic.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>FILMS, Автообновляемые</group>
-    </playlist>
-    
     <playlist>
       <date>21.12.2020</date>
       <name>Immo.date</name>
@@ -533,15 +667,6 @@
     </playlist>
 
     <playlist>
-      <date>01.01.2020</date>
-      <name>Webarmen</name>
-      <url>https://webarmen.com/my/iptv/auto.nogrp.m3u</url>
-      <comment>Webarmen</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Обновляемый</group>
-    </playlist>
-
-    <playlist>
       <date>05.04.2020</date>
       <name>HD @ Iptvm3u.ru</name>
       <url>http://iptvm3u.ru/hdlist.m3u</url>
@@ -613,24 +738,6 @@
       <group>RU, Обновляемый</group>
     </playlist>
     
-    <playlist>
-      <name>Kareniptv</name>
-      <url>http://kareniptv.eu/karen.m3u</url>
-      <comment>Kareniptv</comment>
-      <date>13.03.2019</date>
-      <update_hours>24</update_hours>
-      <group>RU, AM, Обновляемый</group>
-    </playlist>
-
-    <playlist>
-      <name>XXX @ webarmen.com</name>
-      <url>https://webarmen.com/my/iptv/auto.xxx.m3u</url>
-      <comment>XXX @ webarmen.com</comment>
-      <date>03.03.2019</date>
-      <update_hours>24</update_hours>
-      <group>Adult, Обновляемый</group>
-    </playlist>
-
     <playlist>
       <name>XXX @ Iptv-m3u.ru</name>
       <url>http://iptv-m3u.ru/auto.xxx.m3u</url>
