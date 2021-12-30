@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wizard>
   <info>
-    <version>версия 2.011, 30.12.2021</version>
+    <version>версия 2.012, 30.12.2021</version>
     <name>LazyIPTV Deluxe Wizard</name>
     <comment>Wizard-файл для android-приложения LazyIPTV</comment>
     <warning>Весь контент, представленный в этом файле взят из открытых источников!</warning>
@@ -774,42 +774,6 @@
       <group>RU, Обновляемый</group>
     </playlist>
   
-    <playlist>
-      <name>Playlist1 @ divantv.ru</name>
-      <url>http://divantv.zz.mu/Playlist001.m3u</url>
-      <comment>[FILMS] Playlist1 @ divantv.ru</comment>
-      <date>28.12.2018</date>
-      <update_hours>0</update_hours>
-      <group>RU, Обновляемый, Films</group>
-    </playlist>
-
-    <playlist>
-      <name>Playlist2 @ divantv.ru</name>
-      <url>http://divantv.zz.mu/Playlist002.m3u</url>
-      <comment>[FILMS] Playlist1 @ divantv.ru</comment>
-      <date>28.12.2018</date>
-      <update_hours>0</update_hours>
-      <group>RU, Обновляемый, Films</group>
-    </playlist>
-
-    <playlist>
-      <name>Playlist3 @ divantv.ru</name>
-      <url>http://divantv.zz.mu/Playlist003.m3u</url>
-      <comment>[FILMS] Playlist1 @ divantv.ru</comment>
-      <date>28.12.2018</date>
-      <update_hours>0</update_hours>
-      <group>RU, Обновляемый, Films</group>
-    </playlist>
-
-    <playlist>
-      <name>Playlist4 @ divantv.ru</name>
-      <url>http://divantv.zz.mu/Playlist004.m3u</url>
-      <comment>[FILMS] Playlist1 @ divantv.ru</comment>
-      <date>28.12.2018</date>
-      <update_hours>0</update_hours>
-      <group>RU, Обновляемый, Films</group>
-    </playlist>
-
     <playlist>
       <name>Iptvfull @ Smarttvapp.ru</name>
       <url>http://smarttvapp.ru/app/iptvfull.m3u</url>
