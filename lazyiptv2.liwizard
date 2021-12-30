@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wizard>
   <info>
-    <version>версия 2.010, 30.12.2021</version>
+    <version>версия 2.011, 30.12.2021</version>
     <name>LazyIPTV Deluxe Wizard</name>
     <comment>Wizard-файл для android-приложения LazyIPTV</comment>
     <warning>Весь контент, представленный в этом файле взят из открытых источников!</warning>
@@ -25,15 +25,6 @@
       <comment></comment>
       <update_hours>24</update_hours>
       <group>AZ, Автообновляемые, New</group>
-    </playlist>
-
-    <playlist>
-      <date>30.12.2021</date>
-      <name>UA @ samigiptv</name>
-      <url>http://samigiptv.ucoz.net/ukraine.txt</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>UA, Автообновляемые, New</group>
     </playlist>
 
     <playlist>
