@@ -20,7 +20,7 @@
 
     <playlist>
       <date>02.03.2022</date>
-      <name>UA @ prodigtv</name>
+      <name>IPTV @ prodigtv</name>
       <url>https://prodigtv.ru/play/iptv.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
@@ -29,7 +29,7 @@
 
     <playlist>
       <date>02.03.2022</date>
-      <name></name>
+      <name>UA @ prodigtv</name>
       <url>https://prodigtv.ru/play/ua.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
