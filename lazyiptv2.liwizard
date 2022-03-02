@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wizard>
   <info>
-    <version>версия 2.014, 27.01.2022</version>
+    <version>версия 2.015, 02.03.2022</version>
     <name>LazyIPTV Deluxe Wizard</name>
     <comment>Wizard-файл для android-приложения LazyIPTV</comment>
     <warning>Весь контент, представленный в этом файле взят из открытых источников!</warning>
@@ -10,39 +10,48 @@
   <playlists>
 
     <playlist>
+      <date>02.03.2022</date>
+      <name>UA @ smarttvnews</name>
+      <url>https://smarttvnews.ru/apps/ukraine.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>02.03.2022</date>
+      <name>UA @ prodigtv</name>
+      <url>https://prodigtv.ru/play/iptv.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>02.03.2022</date>
+      <name></name>
+      <url>https://prodigtv.ru/play/ua.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>02.03.2022</date>
+      <name>UA @ iptv-org</name>
+      <url>https://iptv-org.github.io/iptv/languages/ukr.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
       <date>27.01.2022</date>
       <name>Stb.ge</name>
       <url>http://stb.ge/tv.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>GE, Автообновляемые, New</group>
-    </playlist>
-
-    <playlist>
-      <date>27.01.2022</date>
-      <name>444 @ iptv.avs</name>
-      <url>https://iptv.avs.in.ua/444.m3u8</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
-    </playlist>
-    
-    <playlist>
-      <date>27.01.2022</date>
-      <name>UA @ iptv.avs</name>
-      <url>https://iptv.avs.in.ua/Ukraine.m3u8</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
-    </playlist>
-    
-    <playlist>
-      <date>27.01.2022</date>
-      <name>Partizan @ iptv.avs</name>
-      <url>https://iptv.avs.in.ua/partizan.m3u8</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>GE, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -51,7 +60,7 @@
       <url>http://iptv-russia.ru/list/music.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>Music, Автообновляемые, New</group>
+      <group>Music, Автообновляемые</group>
     </playlist>
     
     <playlist>
@@ -60,7 +69,7 @@
       <url>http://iptv-russia.ru/list/cinematic.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>Films, Автообновляемые, New</group>
+      <group>Films, Автообновляемые</group>
     </playlist>
     
     <playlist>
@@ -69,7 +78,7 @@
       <url>http://iptv-russia.ru/list/ua-all.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
     
     <playlist>
@@ -78,7 +87,7 @@
       <url>http://iptv-russia.ru/list/xxx.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>Adult, Автообновляемые, New</group>
+      <group>Adult, Автообновляемые</group>
     </playlist>
     
     <playlist>
@@ -87,7 +96,7 @@
       <url>https://www.apsattv.com/rakuten.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>World, Автообновляемые, New</group>
+      <group>World, Автообновляемые</group>
     </playlist>
     
      <playlist>
@@ -96,7 +105,7 @@
       <url>https://tva.in.ua/iptv/f/kino-ser.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>Films, Автообновляемые, New</group>
+      <group>Films, Автообновляемые</group>
     </playlist>
     
      <playlist>
@@ -105,7 +114,7 @@
       <url>http://sochiga.000webhostapp.com/SuSochi.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -114,7 +123,7 @@
       <url>http://codwar.3dn.ru/playlist/smartoteka.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>RU, UA, World, Автообновляемые, New</group>
+      <group>RU, UA, World, Автообновляемые</group>
     </playlist>
     
     <playlist>
@@ -479,15 +488,6 @@
 
     <playlist>
       <date>10.04.2021</date>
-      <name>Dima @ Ezua.com</name>
-      <url>http://dima.ezua.com/dimon.m3u8</url>
-      <comment>Dima @ Ezua.com</comment>
-      <update_hours>24</update_hours>
-      <group>UA, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>10.04.2021</date>
       <name>SL @ tva.in.ua</name>
       <url>https://tva.org.ua/ip/u/iptv_ukr.m3u</url>
       <comment>SL @ tva.in.ua</comment>
@@ -734,15 +734,6 @@
       <name>Kids @ Webhalpme</name>
       <url>https://webhalpme.ru/kids.m3u</url>
       <comment>Kids @ Webhalpme</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Обновляемый</group>
-    </playlist>
-
-    <playlist>
-      <date>01.01.2020</date>
-      <name>Iptvfreefull @ Smarttvnews</name>
-      <url>https://smarttvnews.ru/apps/iptvfreefull.m3u</url>
-      <comment></comment>
       <update_hours>24</update_hours>
       <group>RU, Обновляемый</group>
     </playlist>
