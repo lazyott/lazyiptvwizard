@@ -74,15 +74,6 @@
 
     <playlist>
       <date>19.05.2022</date>
-      <name>UA @ iptv-org</name>
-      <url>https://iptv-org.github.io/iptv/languages/ukr.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>UA, Автообновляемые, New</group>
-    </playlist>
-
-    <playlist>
-      <date>19.05.2022</date>
       <name>EN @ iptv-org</name>
       <url>https://iptv-org.github.io/iptv/languages/eng.m3u</url>
       <comment></comment>
@@ -105,7 +96,7 @@
       <url>https://smarttvnews.ru/apps/ukraine.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>UA, Автообновляемые, New</group>
+      <group>UA, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -114,7 +105,7 @@
       <url>https://prodigtv.ru/play/iptv.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>UA, Автообновляемые, New</group>
+      <group>UA, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -123,7 +114,7 @@
       <url>https://prodigtv.ru/play/ua.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>UA, Автообновляемые, New</group>
+      <group>UA, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -132,7 +123,7 @@
       <url>https://iptv-org.github.io/iptv/languages/ukr.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>UA, Автообновляемые, New</group>
+      <group>UA, Автообновляемые</group>
     </playlist>
 
     <playlist>
