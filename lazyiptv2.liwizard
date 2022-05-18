@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wizard>
   <info>
-    <version>версия 2.015, 02.03.2022</version>
+    <version>версия 2.016, 19.05.2022</version>
     <name>LazyIPTV Deluxe Wizard</name>
     <comment>Wizard-файл для android-приложения LazyIPTV</comment>
     <warning>Весь контент, представленный в этом файле взят из открытых источников!</warning>
@@ -9,6 +9,96 @@
 
   <playlists>
 
+    <playlist>
+      <date>19.05.2022</date>
+      <name>Edem FREE</name>
+      <url>http://edemtv.my1.ru/iptv/999/index/EDEM.m3u</url>
+      <comment>Сборная солянка</comment>
+      <update_hours>24</update_hours>
+      <group>RU,UA, WORLD, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>19.05.2022</date>
+      <name>iptvfull @ smarttvapp</name>
+      <url>https://smarttvapp.ru/app/iptvfull.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>19.05.2022</date>
+      <name>@tv_group_net</name>
+      <url>https://cutt.ly/lkCX3c3</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>19.05.2022</date>
+      <name>Mzab</name>
+      <url>http://bezbe.my1.ru//t/mzab.m3u8</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>19.05.2022</date>
+      <name>iptv-playli @ ottv.tk</name>
+      <url>http://ottv.tk/public/plst/plstfb/iptv-playli_no_save.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>19.05.2022</date>
+      <name>All @ iptv-org</name>
+      <url>https://iptv-org.github.io/iptv/index.language.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>WORLD, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>19.05.2022</date>
+      <name>RU @ iptv-org</name>
+      <url>https://iptv-org.github.io/iptv/languages/rus.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>19.05.2022</date>
+      <name>UA @ iptv-org</name>
+      <url>https://iptv-org.github.io/iptv/languages/ukr.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>19.05.2022</date>
+      <name>EN @ iptv-org</name>
+      <url>https://iptv-org.github.io/iptv/languages/eng.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>WORLD, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>19.05.2022</date>
+      <name>ASIA @ iptv-org</name>
+      <url>https://iptv-org.github.io/iptv/regions/asia.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>ASIA, Автообновляемые, New</group>
+    </playlist>
+    
     <playlist>
       <date>02.03.2022</date>
       <name>UA @ smarttvnews</name>
@@ -128,15 +218,6 @@
     
     <playlist>
       <date>30.12.2021</date>
-      <name>Az @ samigiptv</name>
-      <url>http://samigiptv.ucoz.net/Azerb2121.txt</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>AZ, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>30.12.2021</date>
       <name>UA2 @ samigiptv</name>
       <url>http://samigiptv.ucoz.net/ukraine.txt</url>
       <comment></comment>
@@ -223,15 +304,6 @@
       <comment></comment>
       <update_hours>24</update_hours>
       <group>Radio, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>30.12.2021</date>
-      <name>Test.telek.me</name>
-      <url>http://test.telek.me:2022/iptv.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -398,15 +470,6 @@
 
     <playlist>
       <date>30.07.2021</date>
-      <name>Grandruziev TV</name>
-      <url>http://iah.at.ua/grandruzievtv.m3u</url>
-      <comment>Grandruziev TV</comment>
-      <update_hours>24</update_hours>
-      <group>RU, UA, Films, Worls, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>30.07.2021</date>
       <name>Tatar TV</name>
       <url>https://radiotmk.ru/iptv/tatartv.m3u</url>
       <comment>Tatar TV</comment>
@@ -455,15 +518,6 @@
       <name>Megafon @ bezbe.my1.ru</name>
       <url>http://bezbe.my1.ru/t/megafon.m3u</url>
       <comment>Megafon @ bezbe.my1.ru</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>10.04.2021</date>
-      <name>MIX</name>
-      <url>http://gronik.ucoz.ru/MIX.m3u</url>
-      <comment>MIX</comment>
       <update_hours>24</update_hours>
       <group>RU, Автообновляемые</group>
     </playlist>
@@ -881,15 +935,6 @@
       <group>RU, UA</group>
     </playlist>
     
-    <playlist>
-      <name>Rubintele</name>
-      <url>http://iptv.rubintele.com:8552/playlist.m3u8</url>   
-      <comment>[UA] плейлист rubintele.com</comment>
-      <date>09.02.2017</date>
-      <update_hours>24</update_hours>
-      <group>UA, Обновляемый</group>
-    </playlist>
-
     <playlist>
         <name>Auto Iptv</name>
         <url>http://getsapp.ru/IPTV/Auto_IPTV.m3u</url>             
