@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wizard>
   <info>
-    <version>версия 2.016, 19.05.2022</version>
+    <version>версия 2.017, 05.06.2022</version>
     <name>LazyIPTV Deluxe Wizard</name>
     <comment>Wizard-файл для android-приложения LazyIPTV</comment>
     <warning>Весь контент, представленный в этом файле взят из открытых источников!</warning>
@@ -10,12 +10,129 @@
   <playlists>
 
     <playlist>
+      <date>05.06.2022</date>
+      <name>Avto iptv tva</name>
+      <url>https://tva.org.ua/ip/sam/avto-iptv-tva.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>UA, WORLD. Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>05.06.2022</date>
+      <name>Azerbaijan @ iptvmaster.ru</name>
+      <url>https://iptvmaster.ru/azerbaijan.m3u</url>
+      <comment>Azerbaijan @ iptvmaster.ru</comment>
+      <update_hours>24</update_hours>
+      <group>AZ, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>05.06.2022</date>
+      <name>Iptvchannels @ smarttvnews.ru</name>
+      <url> https://smarttvnews.ru/apps/iptvchannels.m3u</url>
+      <comment>Iptvchannels @ smarttvnews.ru</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>05.06.2022</date>
+      <name>Iptvfree @ androidtvnews.ru</name>
+      <url>https://androidtvnews.ru/apps/iptvfree.m3u</url>
+      <comment>Iptvfree @ androidtvnews.ru</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>05.06.2022</date>
+      <name>Freeiptv @ smarttvnews.ru</name>
+      <url>https://smarttvnews.ru/apps/freeiptv.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>05.06.2022</date>
+      <name>Zabava @ m3url</name>
+      <url>https://m3url.ru/zabava.m3u</url>
+      <comment>Zabava @ m3url</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>05.06.2022</date>
+      <name>Okko @ m3url</name>
+      <url>https://m3url.ru/okko.m3u</url>
+      <comment>Okko @ m3url</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>05.06.2022</date>
+      <name>Твое_тв @ m3url</name>
+      <url>https://m3url.ru/Твое_тв.m3u</url>
+      <comment>Твое_тв @ m3url</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>05.06.2022</date>
+      <name>XXX18+ @ m3url</name>
+      <url>https://m3url.ru/M3U-IPTV.XXX18+.m3u</url>
+      <comment>XXX18+ @ m3url</comment>
+      <update_hours>24</update_hours>
+      <group>Adilt, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>05.06.2022</date>
+      <name>UPITTER @ m3url</name>
+      <url>https://m3url.ru/UPITTER.m3u</url>
+      <comment>UPITTER @ m3url</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>05.06.2022</date>
+      <name>Gogo @ m3url</name>
+      <url>https://m3url.ru/gogo.m3u</url>
+      <comment>Gogo @ m3url</comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые, New</group>
+    </playlist>
+ 
+     <playlist>
+      <date>05.06.2022</date>
+      <name>Antifriz Films @ m3url</name>
+      <url>https://m3url.ru/antifriz.tv.m3u</url>
+      <comment>Antifriz @ m3url</comment>
+      <update_hours>24</update_hours>
+      <group>Films, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>05.06.2022</date>
+      <name>FilMax_Tv @ m3url</name>
+      <url>https://m3url.ru/FilMax_Tv.m3u</url>
+      <comment>FilMax_Tv @ m3url</comment>
+      <update_hours>24</update_hours>
+      <group>Films, Автообновляемые, New</group>
+    </playlist>
+ 
+    <playlist>
       <date>19.05.2022</date>
       <name>Edem FREE</name>
       <url>http://edemtv.my1.ru/iptv/999/index/EDEM.m3u</url>
       <comment>Сборная солянка</comment>
       <update_hours>24</update_hours>
-      <group>RU,UA, WORLD, Автообновляемые, New</group>
+      <group>RU,UA, WORLD, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -24,7 +141,7 @@
       <url>https://smarttvapp.ru/app/iptvfull.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -33,7 +150,7 @@
       <url>https://cutt.ly/lkCX3c3</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -42,7 +159,7 @@
       <url>http://bezbe.my1.ru//t/mzab.m3u8</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -51,7 +168,7 @@
       <url>http://ottv.tk/public/plst/plstfb/iptv-playli_no_save.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -60,7 +177,7 @@
       <url>https://iptv-org.github.io/iptv/index.language.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>WORLD, Автообновляемые, New</group>
+      <group>WORLD, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -69,7 +186,7 @@
       <url>https://iptv-org.github.io/iptv/languages/rus.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -78,7 +195,7 @@
       <url>https://iptv-org.github.io/iptv/languages/eng.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>WORLD, Автообновляемые, New</group>
+      <group>WORLD, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -87,7 +204,7 @@
       <url>https://iptv-org.github.io/iptv/regions/asia.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>ASIA, Автообновляемые, New</group>
+      <group>ASIA, Автообновляемые</group>
     </playlist>
     
     <playlist>
@@ -189,15 +306,6 @@
       <group>Films, Автообновляемые</group>
     </playlist>
     
-     <playlist>
-      <date>27.01.2022</date>
-      <name>SuSochi</name>
-      <url>http://sochiga.000webhostapp.com/SuSochi.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-
     <playlist>
       <date>30.12.2021</date>
       <name>Smartoteka @ 3dn</name>
@@ -290,15 +398,6 @@
 
     <playlist>
       <date>30.12.2021</date>
-      <name>Radio & Cams</name>
-      <url>https://webmaster.pp.ua/u/tvradiocam.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>Radio, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>30.12.2021</date>
       <name>Films HD @ androidtvnews</name>
       <url>https://androidtvnews.ru/apps/filmhd.m3u</url>
       <comment></comment>
@@ -351,33 +450,6 @@
       <group>RU, Автообновляемые</group>
     </playlist>
                         
-    <playlist>
-      <date>12.10.2021</date>
-      <name>Iptv @ kinolivi</name>
-      <url>https://kinolivi.net.ru/IPTV.m3u</url>
-      <comment>Iptv @ kinolivi</comment>
-      <update_hours>24</update_hours>
-      <group>RU, UA, WORLD, Автообновляемые</group>
-    </playlist>
-    
-    <playlist>
-      <date>12.10.2021</date>
-      <name>Ru @ kinolivi</name>
-      <url>https://kinolivi.net.ru/Russian.m3u </url>
-      <comment>Ru @ kinolivi</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>12.10.2021</date>
-      <name>Kino-shou.ru</name>
-      <url>https://kino-shou.ru/IPTV.m3u</url>
-      <comment>Kino-shou.ru</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-
     <playlist>
       <date>12.10.2021</date>
       <name>Ua @ myplaylists</name>
@@ -640,33 +712,6 @@
     </playlist>
 
     <playlist>
-      <date>24.09.2020</date>
-      <name>OdessaTV @ webmaster.pp.ua</name>
-      <url>https://webmaster.pp.ua/u/odessa_tv.m3u</url>
-      <comment>OdessaTV @ webmaster.pp.ua</comment>
-      <update_hours>24</update_hours>
-      <group>UA, Автообновляемые</group>
-    </playlist>
-    
-    <playlist>
-      <date>24.09.2020</date>
-      <name>Dagestan @ webmaster.pp.ua</name>
-      <url>https://webmaster.pp.ua/u/dagestan.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>      
-      <group>RU, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>24.09.2020</date>
-      <name>Ittv</name>
-      <url>http://ittv.cc.ua/playlist/ittv.cc.ua.m3u</url>
-      <comment>Ittv</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
       <date>19.07.2020</date>
       <name>Korol</name>
       <url>https://korol.do.am/tv.m3u</url>
@@ -711,24 +756,6 @@
       <group>RU, Автообновляемые</group>
     </playlist>
 
-    <playlist>
-      <date>19.07.2020</date>
-      <name>Webmaster.pp.ua</name>
-      <url>https://webmaster.pp.ua/u/pwr.m3u</url>
-      <comment>Webmaster.pp.ua</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>19.07.2020</date>
-      <name>211 @ Webmaster.pp.ua</name>
-      <url>https://webmaster.pp.ua/u/211_2020.m3u</url>
-      <comment>211 @ Webmaster.pp.ua</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-    
     <playlist>
       <date>03.06.2020</date>
       <name>Tva.in.ua</name>
@@ -828,15 +855,6 @@
       <group>RU, Обновляемый</group>
     </playlist>
     
-    <playlist>
-      <date>13.04.2017</date>
-      <name>Ettytv</name>
-      <url>http://ettytv.com/playlist/odessa_tv.m3u</url>
-      <comment>[UA] Ettytv</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Обновляемый</group>
-    </playlist>
-
     <playlist>
       <name>Gorod.tv</name>
       <url>http://gorod.tv/iptv.m3u</url>
@@ -951,14 +969,6 @@
       <date>31.10.2015</date>
       <radio>true</radio>
       <group>UA, Радио, Обновляемый</group>
-    </playlist>
-
-    <playlist>
-      <name>Kinodrom @ SlyNet</name>
-      <url>http://topplay.do.am/KinodromTopPlay.m3u</url>   
-      <comment>[FILMS] Сборник фильмов от команды SlyNet</comment>
-      <date>03.06.2020</date>
-      <group>FILMS</group>
     </playlist>
 
     <playlist>
@@ -1109,16 +1119,8 @@
       <date>07.07.2020</date>
       <name>Cbilling Epg</name>
       <url>http://epg.iptvx.tv/xmltv.xml.gz</url>
-      <comment>Lang: RU, Size: ~10Mb, 12 days, 600+ каналов. Содержит описания передач.</comment>
+      <comment>Lang: RU, Size: ~10Mb, 12 days, 600+ каналов. Содержит описания передач. UA only</comment>
       <group>Xmltv,Icons,exUSSR,World</group>
-    </epg>
-    
-    <epg>
-      <date>07.07.2020</date>
-      <name>GreatIPTV Epg</name>
-      <url>http://epg.greatiptv.cc/iptv.xml.gz</url>
-      <comment>Lang: RU, Size: ~9Mb, 8 days, 1000+ каналов. Содержит описания передач.</comment>
-      <group>Xmltv,exUssr,World</group>
     </epg>
     
     <epg>
@@ -1169,14 +1171,6 @@
       <group>Jtv,exUssr,World</group>
     </epg>
         
-    <epg>
-      <date>07.07.2020</date>
-      <name>Maxnet Epg</name>
-      <url>http://tv.maxnet.ua/temp/programm_jtv.zip</url>
-      <comment>Lang: RU, Size: ~1Mb, 8 days, 200+ каналов.</comment>
-      <group>Jtv,RU,UA,World</group>
-    </epg>    
-
   </epgs>
   
   <links>
