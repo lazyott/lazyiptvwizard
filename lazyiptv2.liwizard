@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wizard>
   <info>
-    <version>версия 2.017, 05.06.2022</version>
+    <version>версия 2.017, 05.08.2022</version>
     <name>LazyIPTV Deluxe Wizard</name>
     <comment>Wizard-файл для android-приложения LazyIPTV</comment>
     <warning>Весь контент, представленный в этом файле взят из открытых источников!</warning>
@@ -10,7 +10,7 @@
   <playlists>
 
     <playlist>
-      <date>05.06.2022</date>
+      <date>05.08.2022</date>
       <name>Avto iptv tva</name>
       <url>https://tva.org.ua/ip/sam/avto-iptv-tva.m3u</url>
       <comment></comment>
@@ -19,7 +19,7 @@
     </playlist>
 
     <playlist>
-      <date>05.06.2022</date>
+      <date>05.08.2022</date>
       <name>Azerbaijan @ iptvmaster.ru</name>
       <url>https://iptvmaster.ru/azerbaijan.m3u</url>
       <comment>Azerbaijan @ iptvmaster.ru</comment>
@@ -28,7 +28,7 @@
     </playlist>
 
     <playlist>
-      <date>05.06.2022</date>
+      <date>05.08.2022</date>
       <name>Iptvchannels @ smarttvnews.ru</name>
       <url> https://smarttvnews.ru/apps/iptvchannels.m3u</url>
       <comment>Iptvchannels @ smarttvnews.ru</comment>
@@ -37,7 +37,7 @@
     </playlist>
 
     <playlist>
-      <date>05.06.2022</date>
+      <date>05.08.2022</date>
       <name>Iptvfree @ androidtvnews.ru</name>
       <url>https://androidtvnews.ru/apps/iptvfree.m3u</url>
       <comment>Iptvfree @ androidtvnews.ru</comment>
@@ -46,7 +46,7 @@
     </playlist>
 
     <playlist>
-      <date>05.06.2022</date>
+      <date>05.08.2022</date>
       <name>Freeiptv @ smarttvnews.ru</name>
       <url>https://smarttvnews.ru/apps/freeiptv.m3u</url>
       <comment></comment>
@@ -55,7 +55,7 @@
     </playlist>
 
     <playlist>
-      <date>05.06.2022</date>
+      <date>05.08.2022</date>
       <name>Zabava @ m3url</name>
       <url>https://m3url.ru/zabava.m3u</url>
       <comment>Zabava @ m3url</comment>
@@ -64,7 +64,7 @@
     </playlist>
 
     <playlist>
-      <date>05.06.2022</date>
+      <date>05.08.2022</date>
       <name>Okko @ m3url</name>
       <url>https://m3url.ru/okko.m3u</url>
       <comment>Okko @ m3url</comment>
@@ -73,7 +73,7 @@
     </playlist>
 
     <playlist>
-      <date>05.06.2022</date>
+      <date>05.08.2022</date>
       <name>Твое_тв @ m3url</name>
       <url>https://m3url.ru/Твое_тв.m3u</url>
       <comment>Твое_тв @ m3url</comment>
@@ -82,7 +82,7 @@
     </playlist>
 
     <playlist>
-      <date>05.06.2022</date>
+      <date>05.08.2022</date>
       <name>XXX18+ @ m3url</name>
       <url>https://m3url.ru/M3U-IPTV.XXX18+.m3u</url>
       <comment>XXX18+ @ m3url</comment>
@@ -91,7 +91,7 @@
     </playlist>
 
     <playlist>
-      <date>05.06.2022</date>
+      <date>05.08.2022</date>
       <name>UPITTER @ m3url</name>
       <url>https://m3url.ru/UPITTER.m3u</url>
       <comment>UPITTER @ m3url</comment>
@@ -100,7 +100,7 @@
     </playlist>
 
     <playlist>
-      <date>05.06.2022</date>
+      <date>05.08.2022</date>
       <name>Gogo @ m3url</name>
       <url>https://m3url.ru/gogo.m3u</url>
       <comment>Gogo @ m3url</comment>
@@ -109,7 +109,7 @@
     </playlist>
  
      <playlist>
-      <date>05.06.2022</date>
+      <date>05.08.2022</date>
       <name>Antifriz Films @ m3url</name>
       <url>https://m3url.ru/antifriz.tv.m3u</url>
       <comment>Antifriz @ m3url</comment>
@@ -118,7 +118,7 @@
     </playlist>
 
     <playlist>
-      <date>05.06.2022</date>
+      <date>05.08.2022</date>
       <name>FilMax_Tv @ m3url</name>
       <url>https://m3url.ru/FilMax_Tv.m3u</url>
       <comment>FilMax_Tv @ m3url</comment>
