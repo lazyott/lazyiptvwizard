@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wizard>
   <info>
-    <version>версия 2.018, 23.09.2022</version>
+    <version>версия 2.019, 14.11.2022</version>
     <name>LazyIPTV Deluxe Wizard</name>
     <comment>Wizard-файл для android-приложения LazyIPTV</comment>
     <warning>Весь контент, представленный в этом файле взят из открытых источников!</warning>
@@ -9,6 +9,105 @@
 
   <playlists>
   
+    <playlist>
+      <date>14.11.2022</date>
+      <name>KaktusIPTV</name>
+      <url>https://m3url.ru/KaktusIPTV.m3u</url>
+      <comment>KaktusIPTV</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+    
+    <playlist>
+      <date>14.11.2022</date>
+      <name>TTV @ AVD</name>
+      <url>https://avdmono.do.am/AVD/TTV-AVD.m3u</url>
+      <comment>TTV @ AVD</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+    
+    <playlist>
+      <date>14.11.2022</date>
+      <name>OTT Pink</name>
+      <url>https://m3url.ru/ott-pink.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые, New</group>
+    </playlist>
+    
+    <playlist>
+      <date>14.11.2022</date>
+      <name>Ruam</name>
+      <url>https://m3url.ru/ruam.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+    
+    <playlist>
+      <date>14.11.2022</date>
+      <name>OLSIB</name>
+      <url>https://olsib.at.ua/vip/List/OLSIB-tv.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+    
+    <playlist>
+      <date>14.11.2022</date>
+      <name>Iptv-org @ github</name>
+      <url>https://iptv-org.github.io/iptv/index.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+    
+    <playlist>
+      <date>14.11.2022</date>
+      <name>ZEN @ AVD</name>
+      <url>https://avdmono.do.am/AVD/ZEN-AVD.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+    
+    <playlist>
+      <date>14.11.2022</date>
+      <name>Uzbekistan @ AVD</name>
+      <url>https://avdmono.do.am/AVD/Uzbekistan.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>UZ, Автообновляемые, New</group>
+    </playlist>
+    
+    <playlist>
+      <date>14.11.2022</date>
+      <name>Moldova @ AVD</name>
+      <url>https://avdmono.do.am/AVD/moldova-avd.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>MD, Автообновляемые, New</group>
+    </playlist>
+    
+    <playlist>
+      <date>14.11.2022</date>
+      <name>Bulgaria @ AVD</name>
+      <url>https://avdmono.do.am/AVD/bulgaria-avd.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>BU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>14.11.2022</date>
+      <name>Armenija @ AVD</name>
+      <url>https://avdmono.do.am/AVD/armenija.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>AM, Автообновляемые, New</group>
+    </playlist>
+
     <playlist>
       <date>23.09.2022</date>
       <name>Urk @ m3url</name>
@@ -24,7 +123,7 @@
       <url>https://m3url.ru/LVB.m3u</url>
       <comment>LVB @ m3url</comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -33,7 +132,7 @@
       <url>https://m3url.ru/Rus.m3u</url>
       <comment>Rus @ m3url</comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
     
     <playlist>
@@ -42,7 +141,7 @@
       <url>https://m3url.ru/Sport.m3u</url>
       <comment>Sport @ m3url</comment>
       <update_hours>24</update_hours>
-      <group>SPORT, Автообновляемые, New</group>
+      <group>SPORT, Автообновляемые</group>
     </playlist>
         
     <playlist>
@@ -51,7 +150,7 @@
       <url>https://m3url.ru/Another.TV.m3u</url>
       <comment>Another @ m3url</comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -60,7 +159,7 @@
       <url>https://m3url.ru/FreeCrabsTV09.2022.m3u</url>
       <comment>FreeCrabsTV09 @ m3url</comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -69,7 +168,7 @@
       <url>https://m3url.ru/Избранное-toptestlistp.m3u</url>
       <comment>toptestlistp @ m3url</comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
     
     <playlist>
@@ -78,7 +177,7 @@
       <url>https://m3url.ru/Uzbekistan.m3u</url>
       <comment>Uzbekistan @ m3url</comment>
       <update_hours>24</update_hours>
-      <group>UZ, Автообновляемые, New</group>
+      <group>UZ, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -87,7 +186,7 @@
       <url>https://dl.dropbox.com/s/71074lccg44mw93/2%29Lazy%20inext%204k%202.m3u</url>
       <comment>Lazy inext</comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -96,7 +195,7 @@
       <url>http://samigiptv.ucoz.net/AzerbTurk1204.m3u</url>
       <comment>AzerbTurk1204</comment>
       <update_hours>24</update_hours>
-      <group>AZ, Автообновляемые, New</group>
+      <group>AZ, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -105,7 +204,7 @@
       <url>https://avdmono.do.am/AVD/TTV-AVD.m3u</url>
       <comment>TTV @ avdmono</comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
     
     <playlist>
@@ -114,7 +213,7 @@
       <url>https://avdmono.do.am/AVD/Armenia-avd.m3u</url>
       <comment>Armenia @ avdmono</comment>
       <update_hours>24</update_hours>
-      <group>AM, Автообновляемые, New</group>
+      <group>AM, Автообновляемые</group>
     </playlist>
    
    <playlist>
@@ -123,7 +222,7 @@
       <url>https://avdmono.do.am/AVD/Greece-avd.m3u</url>
       <comment>Greece @ avdmono</comment>
       <update_hours>24</update_hours>
-      <group>GR, Автообновляемые, New</group>
+      <group>GR, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -132,7 +231,7 @@
       <url>https://avdmono.do.am/AVD/kino-avd.m3u</url>
       <comment>Kino @ avdmono</comment>
       <update_hours>24</update_hours>
-      <group>FILMS, Автообновляемые, New</group>
+      <group>FILMS, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -141,7 +240,7 @@
       <url>https://avdmono.do.am/AVD/moldova-avd.m3u</url>
       <comment>Moldova @ avdmono</comment>
       <update_hours>24</update_hours>
-      <group>MD, Автообновляемые, New</group>
+      <group>MD, Автообновляемые</group>
     </playlist>
     
     <playlist>
@@ -150,7 +249,7 @@
       <url>https://avdmono.do.am/AVD/roman-avd.m3u</url>
       <comment>roman @ avdmono</comment>
       <update_hours>24</update_hours>
-      <group>RO, Автообновляемые, New</group>
+      <group>RO, Автообновляемые</group>
     </playlist>
     
     <playlist>
@@ -251,15 +350,6 @@
       <comment>Сборная солянка</comment>
       <update_hours>24</update_hours>
       <group>RU,UA, WORLD, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>19.05.2022</date>
-      <name>iptvfull @ smarttvapp</name>
-      <url>https://smarttvapp.ru/app/iptvfull.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -920,15 +1010,6 @@
     </playlist>
   
     <playlist>
-      <name>Iptvfull @ Smarttvapp.ru</name>
-      <url>http://smarttvapp.ru/app/iptvfull.m3u</url>
-      <comment>Iptvfull @ Smarttvapp.ru</comment>
-      <date>19.12.2018</date>
-      <update_hours>24</update_hours>
-      <group>RU, Обновляемый</group>
-    </playlist>
-
-    <playlist>
         <name>LazyPlaylist (ver 1.48)</name>
         <url>http://bit.ly/lazyiptvplaylist</url>         
         <comment>Плейлист со статическими источниками, разбиты по категориям (в разработке)</comment>
@@ -1006,15 +1087,6 @@
       <date>03.06.2020</date>
       <radio>true</radio>
       <group>Радио, Статические</group>
-    </playlist>
-  
-    <playlist>
-      <name>3G SlyNet</name>
-      <url>http://topplay.do.am/3gTopPlay.m3u</url>            
-      <comment>[RU] 3G Low Quality for mobile from SlyNet IPTV</comment>
-      <date>03.06.2020</date>
-      <update_hours>24</update_hours>
-      <group>RU, Обновляемый</group>
     </playlist>
   
     <playlist>
