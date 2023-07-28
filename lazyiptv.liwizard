@@ -1,21 +1,93 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wizard>
   <info>
-    <version>версия 2.022, 08.06.2023</version>
+    <version>версия 2.023, 28.07.2023</version>
     <name>LazyIPTV Deluxe Wizard</name>
     <comment>Wizard-файл для android-приложения LazyIPTV</comment>
     <warning>Весь контент, представленный в этом файле взят из открытых источников!</warning>
   </info>
 
   <playlists>
-  
+
+    <playlist>
+      <date>28.07.2023</date>
+      <name>Ukraine @ m3url</name>
+      <url>https://m3url.ru/Ukraine.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>28.07.2023</date>
+      <name>iptv-org</name>
+      <url>https://iptv-org.github.io/iptv/countries/ua.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>28.07.2023</date>
+      <name>s-net @ m3url</name>
+      <url>https://m3url.ru/s-net.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>28.07.2023</date>
+      <name>rp @ m3url</name>
+      <url>https://m3url.ru/rp.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, UA, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>28.07.2023</date>
+      <name>Az @ m3url</name>
+      <url>https://m3url.ru/Az.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>AZ, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>28.07.2023</date>
+      <name>alltv @ m3url</name>
+      <url>https://m3url.ru/alltv_111.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>WORLD, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>28.07.2023</date>
+      <name>UA @ kattv.ru</name>
+      <url>https://kattv.ru/u-kattv.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>28.07.2023</date>
+      <name>Yandex @ kattv</name>
+      <url>https://kattv.ru/yan.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+    
     <playlist>
       <date>08.06.2023</date>
       <name>Cinematic @ iptv-russia</name>
       <url>https://iptv-russia.org/list/cinematic.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>FILMS, Автообновляемые, New</group>
+      <group>FILMS, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -24,7 +96,7 @@
       <url>https://iptv-russia.org/list/mix.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>RU, UA, BY, Автообновляемые, New</group>
+      <group>RU, UA, BY, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -33,7 +105,7 @@
       <url>https://iptv-russia.org/list/iptv-playlist.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -42,7 +114,7 @@
       <url>https://iptv-russia.org/list/ru-all.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -51,7 +123,7 @@
       <url>https://iptvlist.ru/ru4.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -60,7 +132,7 @@
       <url>http://playlisst.site/russia.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
+      <group>RU, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -69,7 +141,7 @@
       <url>https://iptv-russia.org/list/xxx.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>XXX, Автообновляемые, New</group>
+      <group>XXX, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -78,7 +150,7 @@
       <url>https://raw.githubusercontent.com/Cartoonworldcs2/tsiptvmay/main/Cs2_Iptv.m3u8 </url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>WORLD, Автообновляемые, New</group>
+      <group>WORLD, Автообновляемые</group>
     </playlist>
         
     <playlist>
@@ -87,7 +159,7 @@
       <url>http://bluecrabstv.do.am/Free.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>UA, Автообновляемые, New</group>
+      <group>UA, Автообновляемые</group>
     </playlist>
 
     <playlist>
@@ -96,7 +168,7 @@
       <url>https://fanibani.ru/iptv/iptv.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
-      <group>WORLD, Автообновляемые, New</group>
+      <group>WORLD, Автообновляемые</group>
     </playlist>
     
     <playlist>
@@ -130,15 +202,6 @@
       <date>13.04.2023</date>
       <name>Multistream</name>
       <url>https://m3url.ru/multistream-1.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>13.04.2023</date>
-      <name>bestTV</name>
-      <url>https://iptvbest.ru/i/bestTV.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
       <group>RU, Автообновляемые</group>
@@ -202,15 +265,6 @@
       <date>05.01.2023</date>
       <name>Multi.Streams @ m3url</name>
       <url>https://m3url.ru/Multi.Streams.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>05.01.2023</date>
-      <name>OLSIB TV</name>
-      <url>https://olsib.at.ua/vip/List/OLSIB-tv.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
       <group>RU, Автообновляемые</group>
@@ -301,15 +355,6 @@
       <date>14.11.2022</date>
       <name>Ruam</name>
       <url>https://m3url.ru/ruam.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-    
-    <playlist>
-      <date>14.11.2022</date>
-      <name>OLSIB</name>
-      <url>https://olsib.at.ua/vip/List/OLSIB-tv.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
       <group>RU, Автообновляемые</group>
@@ -884,15 +929,6 @@
 
     <playlist>
       <date>10.04.2021</date>
-      <name>Megafon @ bezbe.my1.ru</name>
-      <url>http://bezbe.my1.ru/t/megafon.m3u</url>
-      <comment>Megafon @ bezbe.my1.ru</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>10.04.2021</date>
       <name>Youriptv</name>
       <url>http://uiptv.do.am/pl/youriptv.m3u</url>
       <comment>Youriptv</comment>
@@ -1273,5 +1309,49 @@
     </epg>
         
   </epgs>
+  
+  <links>
+    
+    <link>
+      <date>01.05.2021</date>
+      <url>http://viplime.fun</url>
+      <url_ref>http://viplime.fun/index.php?user=28273</url_ref>
+      <name>VipLime/</name>
+      <comment>Более 1000 каналов за 0.5$ в месяц.</comment>
+      <description>Сервис предоставляет возможность смотреть более 1000 ТВ каналов различных тематик и стран. Каналы сгруппированы по категориям от "Новостные" до "Для взрослых". Тест на 1 день. Смотри везде, на компьютере, смартфоне, планшете или телевизоре. Различные форматы плейлистов.</description>
+      <group>iptv,service</group>
+    </link>
+    
+    <link>
+      <date>07.07.2020</date>
+      <url>https://iedem.tv</url>
+      <url_ref>https://iedem.tv/welcome/register/9869385d167ec0fa</url_ref>
+      <name>EdemTV</name>
+      <comment>Более 1000 каналов + архив на все каналы 4 дня = $1/месяц</comment>
+      <description>EdemTV - это один из самых популярных и дешёвых сервисов iptv. Несколько серверов (CDN) в разных концах земного шара. Возможность просматривать каналы на разных устройствах и разных системах. Огромный выбор постоянно пополняющихся каналов разных стран. Архив каналов на 4 дня и мултирум на 2 устройства! И все это за $1 в месяц за все каналы!</description>
+      <group>iptv,service</group>
+    </link>
+    
+    <link>
+      <date>01.04.2021</date>
+      <url>https://ilook.tv</url>
+      <url_ref>https://ilook.tv/welcome/signup/e2b3dc99e9dc4c10</url_ref>
+      <name>iLookTV</name>
+      <comment>За $1 в месяц, вы получаете более 2000 каналов + архив телепередач на все каналы за 4 дня.</comment>
+      <description>Ilook TV — это современное решение по просмотру любимых телеканалов в любой точке планеты по средствам технологи IPTV (ОТТ). Это новый проект Эдем TV, iptv сервер ilooktv является по своей сути ребрендингом, уже известного iptv сервера Эдем. После регистрации на сайте ilook-TV, на 1 день Вам будет доступен бесплатно полный пакет каналов, для тестирования и ознакомления с сервисом. После чего, Вы сможете продлить подписку или отказаться отказаться.</description>
+      <group>iptv,service</group>
+    </link>
+
+    <link>
+      <date>01.05.2021</date>
+      <url>https://shara.club/</url>
+      <url_ref>https://ref.clubtv.pro/reg-263102.html</url_ref>
+      <name>Shara ТВ</name>
+      <comment>Iptv и шаринг спутникового тв.</comment>
+      <description>Возможность самому выбирать группы каналов и платить только за них. Множество пакетов по странам от $0.5. Всего более 1000 каналов. Доступен архив, m3u лист, портал Ministra.</description>
+      <group>iptv,service</group>
+    </link>
+        
+  </links>    
     
 </wizard>
