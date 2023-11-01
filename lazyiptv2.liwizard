@@ -11,7 +11,7 @@
 
     <playlist>
       <date>02.11.2023</date>
-      <name>iptv @ mater.com.ua</name>
+      <name>Iptv @ mater.com.ua</name>
       <url>https://mater.com.ua/ip/iptv-s-2021.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
@@ -137,7 +137,7 @@
 
     <playlist>
       <date>02.11.2023</date>
-      <name>onelist @ iptvm3u</name>
+      <name>Onelist @ iptvm3u</name>
       <url>http://iptvm3u.ru/onelist.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
@@ -146,7 +146,7 @@
 
     <playlist>
       <date>02.11.2023</date>
-      <name>hdlist @ iptvm3u</name>
+      <name>Hdlist @ iptvm3u</name>
       <url>https://iptvm3u.ru/hdlist.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
@@ -155,7 +155,7 @@
 
     <playlist>
       <date>02.11.2023</date>
-      <name>ru @ iptvlist</name>
+      <name>Ru @ iptvlist</name>
       <url>https://iptvlist.ru/ru.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
@@ -164,7 +164,7 @@
 
     <playlist>
       <date>02.11.2023</date>
-      <name>iptv @ fanibani.ru</name>
+      <name>Iptv @ fanibani.ru</name>
       <url>https://fanibani.ru/iptv/iptv.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
@@ -182,7 +182,7 @@
 
     <playlist>
       <date>02.11.2023</date>
-      <name>multfilm @ fanibani.ru</name>
+      <name>Multfilm @ fanibani.ru</name>
       <url>https://fanibani.ru/iptv/multfilm.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
@@ -191,7 +191,7 @@
     
     <playlist>
       <date>02.11.2023</date>
-      <name>kinokanaly @ playlisst.site</name>
+      <name>Kinokanaly @ playlisst.site</name>
       <url>http://playlisst.site/kinokanaly.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
@@ -200,7 +200,7 @@
 
     <playlist>
       <date>02.11.2023</date>
-      <name>vsefilms @ playlisst.site</name>
+      <name>Vsefilms @ playlisst.site</name>
       <url>http://playlisst.site/vsefilms.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
@@ -209,7 +209,7 @@
 
     <playlist>
       <date>02.11.2023</date>
-      <name>belarus @ playlisst.site</name>
+      <name>Belarus @ playlisst.site</name>
       <url>http://playlisst.site/belarus.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
@@ -218,7 +218,7 @@
 
     <playlist>
       <date>02.11.2023</date>
-      <name>ru-all @ iptv-russia.org</name>
+      <name>Ru-all @ iptv-russia.org</name>
       <url>https://iptv-russia.org/list/ru-all.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
@@ -227,7 +227,7 @@
 
     <playlist>
       <date>02.11.2023</date>
-      <name>kids @ iptv-russia.org</name>
+      <name>Kids @ iptv-russia.org</name>
       <url>https://iptv-russia.ru/list/kids-all.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
@@ -236,7 +236,7 @@
 
     <playlist>
       <date>02.11.2023</date>
-      <name>cinematic @ iptv-russia.org</name>
+      <name>Cinematic @ iptv-russia.org</name>
       <url>https://iptv-russia.org/list/cinematic.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
@@ -245,7 +245,7 @@
 
     <playlist>
       <date>02.11.2023</date>
-      <name>iptv @ iptv-russia.org</name>
+      <name>Iptv @ iptv-russia.org</name>
       <url>https://iptv-russia.org/list/iptv-playlist.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
@@ -254,7 +254,7 @@
 
     <playlist>
       <date>02.11.2023</date>
-      <name>mix @ iptv-russia.org</name>
+      <name>Mix @ iptv-russia.org</name>
       <url>https://iptv-russia.org/list/mix.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
@@ -272,7 +272,7 @@
 
     <playlist>
       <date>28.07.2023</date>
-      <name>iptv-org</name>
+      <name>Iptv-org</name>
       <url>https://iptv-org.github.io/iptv/countries/ua.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
@@ -281,7 +281,7 @@
 
     <playlist>
       <date>28.07.2023</date>
-      <name>s-net @ m3url</name>
+      <name>S-net @ m3url</name>
       <url>https://m3url.ru/s-net.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
