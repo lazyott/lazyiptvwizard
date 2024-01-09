@@ -498,24 +498,6 @@
     
     <playlist>
       <date>14.11.2022</date>
-      <name>OTT Pink</name>
-      <url>https://m3url.ru/ott-pink.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>UA, Автообновляемые</group>
-    </playlist>
-    
-    <playlist>
-      <date>14.11.2022</date>
-      <name>Ruam</name>
-      <url>https://m3url.ru/ruam.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-    
-    <playlist>
-      <date>14.11.2022</date>
       <name>Iptv-org @ github</name>
       <url>https://iptv-org.github.io/iptv/index.m3u</url>
       <comment></comment>
@@ -561,15 +543,6 @@
 
     <playlist>
       <date>23.09.2022</date>
-      <name>LVB @ m3url</name>
-      <url>https://m3url.ru/LVB.m3u</url>
-      <comment>LVB @ m3url</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>23.09.2022</date>
       <name>Rus @ m3url</name>
       <url>https://m3url.ru/Rus.m3u</url>
       <comment>Rus @ m3url</comment>
@@ -595,24 +568,6 @@
       <group>RU, Автообновляемые</group>
     </playlist>
 
-    <playlist>
-      <date>23.09.2022</date>
-      <name>FreeCrabsTV09 @ m3url</name>
-      <url>https://m3url.ru/FreeCrabsTV09.2022.m3u</url>
-      <comment>FreeCrabsTV09 @ m3url</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>23.09.2022</date>
-      <name>toptestlistp @ m3url</name>
-      <url>https://m3url.ru/Избранное-toptestlistp.m3u</url>
-      <comment>toptestlistp @ m3url</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-    
     <playlist>
       <date>23.09.2022</date>
       <name>Uzbekistan @ m3url</name>
@@ -669,15 +624,6 @@
     
     <playlist>
       <date>05.08.2022</date>
-      <name>Avto iptv tva</name>
-      <url>https://tva.org.ua/ip/sam/avto-iptv-tva.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>UA, WORLD. Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>05.08.2022</date>
       <name>Zabava @ m3url</name>
       <url>https://m3url.ru/zabava.m3u</url>
       <comment>Zabava @ m3url</comment>
@@ -690,33 +636,6 @@
       <name>Okko @ m3url</name>
       <url>https://m3url.ru/okko.m3u</url>
       <comment>Okko @ m3url</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>05.08.2022</date>
-      <name>Твое_тв @ m3url</name>
-      <url>https://m3url.ru/Твое_тв.m3u</url>
-      <comment>Твое_тв @ m3url</comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>05.08.2022</date>
-      <name>XXX18+ @ m3url</name>
-      <url>https://m3url.ru/M3U-IPTV.XXX18+.m3u</url>
-      <comment>XXX18+ @ m3url</comment>
-      <update_hours>24</update_hours>
-      <group>Adilt, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>05.08.2022</date>
-      <name>UPITTER @ m3url</name>
-      <url>https://m3url.ru/UPITTER.m3u</url>
-      <comment>UPITTER @ m3url</comment>
       <update_hours>24</update_hours>
       <group>RU, Автообновляемые</group>
     </playlist>
@@ -739,15 +658,6 @@
       <group>Films, Автообновляемые</group>
     </playlist>
 
-    <playlist>
-      <date>05.08.2022</date>
-      <name>FilMax_Tv @ m3url</name>
-      <url>https://m3url.ru/FilMax_Tv.m3u</url>
-      <comment>FilMax_Tv @ m3url</comment>
-      <update_hours>24</update_hours>
-      <group>Films, Автообновляемые</group>
-    </playlist>
- 
     <playlist>
       <date>19.05.2022</date>
       <name>Mzab</name>
@@ -854,24 +764,6 @@
       <comment></comment>
       <update_hours>24</update_hours>
       <group>World, Автообновляемые</group>
-    </playlist>
-    
-     <playlist>
-      <date>27.01.2022</date>
-      <name>Serials @ tva.in.ua</name>
-      <url>https://tva.in.ua/iptv/f/kino-ser.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>Films, Автообновляемые</group>
-    </playlist>
-    
-    <playlist>
-      <date>30.12.2021</date>
-      <name>Smartoteka @ 3dn</name>
-      <url>http://codwar.3dn.ru/playlist/smartoteka.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>RU, UA, World, Автообновляемые</group>
     </playlist>
     
     <playlist>
@@ -1206,15 +1098,6 @@
         <group>RU, UA, Статические</group>
     </playlist>
 
-    <playlist>
-      <name>UA @ Podkola.net</name>
-      <url>http://tele.usite.pro/iptv/ukraina-podkola.net.m3u</url>
-      <comment>[UA] UA @ Podkola.net</comment>
-      <date>22.05.2018</date>
-      <update_hours>24</update_hours>
-      <group>RU, Обновляемый</group>
-    </playlist>
-  
     <playlist>
       <name>Дискография</name>
       <url>http://sascha.ucoz.net/plst/radio/radio_po_ispolniteljam.m3u</url>
