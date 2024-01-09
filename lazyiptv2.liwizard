@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <wizard>
   <info>
-    <version>версия 2.024, 02.11.2023</version>
+    <version>версия 2.025, 09.01.2024</version>
     <name>LazyIPTV Deluxe Wizard</name>
     <comment>Wizard-файл для android-приложения LazyIPTV</comment>
     <warning>Весь контент, представленный в этом файле взят из открытых источников!</warning>
@@ -9,6 +9,70 @@
 
   <playlists>
 
+    <playlist>
+      <date>09.01.2024</date>
+      <name>tv-wd-2 @ m3url</name>
+      <url>https://m3url.ru/tv-wd-2.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>WORLD, Автообновляемые, New</group>
+    </playlist>
+    
+    <playlist>
+      <date>09.01.2024</date>
+      <name>Zarubtv @ moobl</name>
+      <url>https://moobl.ru/zarubtv.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>WORLD, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>09.01.2024</date>
+      <name>moobl</name>
+      <url>https://moobl.ru/wink_playlist.m3u</url>
+      <comment>LQ streams</comment>
+      <update_hours>24</update_hours>
+      <group>RU, Автообновляемые, New</group>
+    </playlist>
+
+    <playlist>
+      <date>09.01.2024</date>
+      <name>iptv.ucoz</name>
+      <url>https://iptv.ucoz.org/iptv_ru.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>UA, Автообновляемые, New</group>
+    </playlist>
+    
+    <playlist>
+      <date>09.01.2024</date>
+      <name>2.0 @ m3url</name>
+      <url>https://m3url.ru/2.0.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>WORLD, Автообновляемые, New</group>
+    </playlist>
+    
+    <playlist>
+      <date>09.01.2024</date>
+      <name>fix-rom</name>
+      <url>http://fix-rom.ucoz.com/iptv_full_playlist.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>WORLD, Автообновляемые, New</group>
+    </playlist>
+    
+    <playlist>
+      <date>09.01.2024</date>
+      <name>Gedem</name>
+      <url>https://edemtv.my1.ru/iptv/Gedem.m3u</url>
+      <comment></comment>
+      <update_hours>24</update_hours>
+      <group>WORLD, Автообновляемые, New</group>
+    </playlist>   
+    
+    
     <playlist>
       <date>02.11.2023</date>
       <name>Iptv @ mater.com.ua</name>
@@ -83,24 +147,6 @@
 
     <playlist>
       <date>02.11.2023</date>
-      <name>Britain @ tviptv.site</name>
-      <url>https://tviptv.site/upl/1_britain_2023.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>Britain, Автообновляемые, New</group>
-    </playlist>
-
-    <playlist>
-      <date>02.11.2023</date>
-      <name>France @ tviptv.site</name>
-      <url>https://tviptv.site/upl/1_france_2023.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>France, Автообновляемые, New</group>
-    </playlist>
-
-    <playlist>
-      <date>02.11.2023</date>
       <name>Italy @ tviptv.site</name>
       <url>https://tviptv.site/upl/1_italy_2023.m3u</url>
       <comment></comment>
@@ -130,33 +176,6 @@
       <date>02.11.2023</date>
       <name>Samyiluchshiy</name>
       <url>https://samyiluchshiy.ru/files/iptv/iptv.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
-    </playlist>
-
-    <playlist>
-      <date>02.11.2023</date>
-      <name>Onelist @ iptvm3u</name>
-      <url>http://iptvm3u.ru/onelist.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
-    </playlist>
-
-    <playlist>
-      <date>02.11.2023</date>
-      <name>Hdlist @ iptvm3u</name>
-      <url>https://iptvm3u.ru/hdlist.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
-    </playlist>
-
-    <playlist>
-      <date>02.11.2023</date>
-      <name>Ru @ iptvlist</name>
-      <url>https://iptvlist.ru/ru.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
       <group>RU, Автообновляемые, New</group>
@@ -217,51 +236,6 @@
     </playlist>
 
     <playlist>
-      <date>02.11.2023</date>
-      <name>Ru-all @ iptv-russia.org</name>
-      <url>https://iptv-russia.org/list/ru-all.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
-    </playlist>
-
-    <playlist>
-      <date>02.11.2023</date>
-      <name>Kids @ iptv-russia.org</name>
-      <url>https://iptv-russia.ru/list/kids-all.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
-    </playlist>
-
-    <playlist>
-      <date>02.11.2023</date>
-      <name>Cinematic @ iptv-russia.org</name>
-      <url>https://iptv-russia.org/list/cinematic.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>FILNS, Автообновляемые, New</group>
-    </playlist>
-
-    <playlist>
-      <date>02.11.2023</date>
-      <name>Iptv @ iptv-russia.org</name>
-      <url>https://iptv-russia.org/list/iptv-playlist.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>WORLD, Автообновляемые, New</group>
-    </playlist>
-
-    <playlist>
-      <date>02.11.2023</date>
-      <name>Mix @ iptv-russia.org</name>
-      <url>https://iptv-russia.org/list/mix.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые, New</group>
-    </playlist>
-
-    <playlist>
       <date>28.07.2023</date>
       <name>Ukraine @ m3url</name>
       <url>https://m3url.ru/Ukraine.m3u</url>
@@ -317,65 +291,11 @@
 
     <playlist>
       <date>08.06.2023</date>
-      <name>Cinematic @ iptv-russia</name>
-      <url>https://iptv-russia.org/list/cinematic.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>FILMS, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>08.06.2023</date>
-      <name>Mix @ iptv-russia</name>
-      <url>https://iptv-russia.org/list/mix.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>RU, UA, BY, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>08.06.2023</date>
-      <name>iptv-russia</name>
-      <url>https://iptv-russia.org/list/iptv-playlist.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>08.06.2023</date>
-      <name>Ru-all @ iptv-russia</name>
-      <url>https://iptv-russia.org/list/ru-all.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>08.06.2023</date>
-      <name>Ru4 @ iptvlist</name>
-      <url>https://iptvlist.ru/ru4.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>RU, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>08.06.2023</date>
       <name>Russia @ playlisst</name>
       <url>http://playlisst.site/russia.m3u</url>
       <comment></comment>
       <update_hours>24</update_hours>
       <group>RU, Автообновляемые</group>
-    </playlist>
-
-    <playlist>
-      <date>08.06.2023</date>
-      <name>Xxx @ iptv-russia</name>
-      <url>https://iptv-russia.org/list/xxx.m3u</url>
-      <comment></comment>
-      <update_hours>24</update_hours>
-      <group>XXX, Автообновляемые</group>
     </playlist>
 
     <playlist>
